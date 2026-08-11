@@ -1,0 +1,25 @@
+name: ci
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install package and extras
+        run: pip install -e ".[dev,health,schema]"
+
+      - name: Run tests
+        run: pytest tests/ -v
+
+      - name: Validate bookmarks_rota sample schema
+        run: python -m bookmark_pipeline.rota_feed validate --feed schemas/fixtures/bookmarks_rota.sample.json

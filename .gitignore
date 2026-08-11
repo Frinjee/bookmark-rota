@@ -1,0 +1,6 @@
+ig/
+.cursor/
+.vvs/
+.pytest_cache/
+phase_1_functions.md
+tests/

@@ -1,0 +1,14 @@
+[
+  {
+    "bookmark_id": "abc123def4567890",
+    "title": "Example bookmark",
+    "url": "https://example.com",
+    "hash": "0f7ce75d13e2",
+    "display_week": "2026-W33",
+    "display_date": "2026-08-10",
+    "taxonomy_category": "INFSEC",
+    "taxonomy_subcategory": "OSINT",
+    "tags": ["INFSEC", "OSINT", "SEARCH"],
+    "note": ""
+  }
+]
