@@ -29,12 +29,14 @@
     "bookmark_id": "ab58b22cb1ed1d16",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "www.ankle.website",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.ankle.website/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/b80f63545ada826af384da08",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Portfolio Site",
+    "source_path": "private/414e2786e5d277f8",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -47,20 +49,22 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "ankle.website",
-    "url": "https://www.ankle.website/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_5eb38f01ea57",
+    "url": "https://private.invalid/ae7cbc92af5ba6395ee4d4b1",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "c717927c2383b160",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "www.youtube.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.youtube.com/watch?v=Ap1ouptryuQ",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/3c9f09460beaae1ed112bfb0",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/job search",
+    "source_path": "private/44f9f4a99d953908",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -75,20 +79,22 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "Building a Password Cracker in Rust - YouTube",
-    "url": "https://www.youtube.com/watch?v=Ap1ouptryuQ",
+    "title": "PRIVATE_52aebe8853b2",
+    "url": "https://private.invalid/ed3818cc4da270d7cb26c363",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "8ff89280169b15d1",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "docs.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://docs.google.com/document/d/11P7zDu0vsgIKPp9KJwDCvtxeCB317J5-hKTD_CuYVSY/edit",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/17be628d1a3fdcd9930082bf",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/job search",
+    "source_path": "private/44f9f4a99d953908",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -101,20 +107,22 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "CYBER BINGO CARD // Flatiron School - Google Docs",
-    "url": "https://docs.google.com/document/d/11P7zDu0vsgIKPp9KJwDCvtxeCB317J5-hKTD_CuYVSY/edit",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_b8e1d2c9a05a",
+    "url": "https://private.invalid/48557ea1e4570dde58748b6c",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "e4fd467324bb21a6",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "americansystems.hua.hrsmart.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://americansystems.hua.hrsmart.com/hr/ats/Posting/view/22122",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/a940d8629c811f48f9ba12b2",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/job search",
+    "source_path": "private/44f9f4a99d953908",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -127,20 +135,22 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "Deltek Talent Management - Cybersecurity Specialist - Associate - (22122)",
-    "url": "https://americansystems.hua.hrsmart.com/hr/ats/Posting/view/22122",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_cfba33fe1fd0",
+    "url": "https://private.invalid/91cdf08ddf10d0251280b0a2",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "6f96ae226cc400f2",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "tags.mgcounts.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://tags.mgcounts.com/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/7beee26c0d3cf29a0424bc8d",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Portfolio Site",
+    "source_path": "private/414e2786e5d277f8",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -153,20 +163,22 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "Discord Server Tags & Badges | Complete Guild Tag Directory 2025",
-    "url": "https://tags.mgcounts.com/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_925e0db81a92",
+    "url": "https://private.invalid/3f1af3d1def7447bd1a58168",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "2a23fa38cea909fe",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "archive.org",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://archive.org/details/DJScrewChapter007BallinInDaMall1997",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/35e279c4982c9c412c44e2d4",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Portfolio Site",
+    "source_path": "private/414e2786e5d277f8",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -179,20 +191,22 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "DJ Screw - Chapter 007. Ballin` In Da Mall (1997) : DJ Screw : Free Download, Borrow, and Streaming : Internet Archive",
-    "url": "https://archive.org/details/DJScrewChapter007BallinInDaMall1997",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_5d1ba016d00e",
+    "url": "https://private.invalid/762af01144155b236cb3fd8e",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "c52715f7feb2dd5e",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "www.fmovies.gd",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.fmovies.gd/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/875d107cdf2e65839d499e56",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Portfolio Site",
+    "source_path": "private/414e2786e5d277f8",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -205,9 +219,9 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "Fmovies - Watch Free Movies Online",
-    "url": "https://www.fmovies.gd/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_622951431731",
+    "url": "https://private.invalid/bf93d0ff6c115eb232514bf3",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "fc920e4746274496",
@@ -241,12 +255,14 @@
     "bookmark_id": "8c1767df3a4b8bcf",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "preview.redd.it",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://preview.redd.it/i-made-a-table-layout-with-the-rules-built-in-v0-rvvqxgf0v1nc1.png?width=960&format=png&auto=webp&s=79c8ef1bf1433c9f06baf70fa1becd1bb3ea135b",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/975bb30a6136f8b8b6395fb7",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Portfolio Site",
+    "source_path": "private/414e2786e5d277f8",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -259,9 +275,9 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "i-made-a-table-layout-with-the-rules-built-in-v0-rvvqxgf0v1nc1.png (960×540)",
-    "url": "https://preview.redd.it/i-made-a-table-layout-with-the-rules-built-in-v0-rvvqxgf0v1nc1.png?width=960&format=png&auto=webp&s=79c8ef1bf1433c9f06baf70fa1becd1bb3ea135b",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_a756319d1e20",
+    "url": "https://private.invalid/42a03e31486834da45e7f58d",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "198c284b62687f26",
@@ -293,38 +309,44 @@
     "bookmark_id": "f7c1fefd2a9ba340",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "umb.taleo.net",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://umb.taleo.net/careersection/umb_external_staff/jobdetail.ftl?src=LinkedIn&job=240000C3",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/fa7ac99844cc71c021aa1e62",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/jobs july",
+    "source_path": "private/f5cfb1278b40e196",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
-      "JOB_SEARCH": 86
+      "JOB_SEARCH": 86,
+      "PRIVATE_PERSONAL": 95
     },
     "tags": [
       "CAREER",
-      "JOB_SEARCH"
+      "JOB_SEARCH",
+      "PRIVATE_PERSONAL"
     ],
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "Job Description - Simulation Technician (240000C3)",
-    "url": "https://umb.taleo.net/careersection/umb_external_staff/jobdetail.ftl?src=LinkedIn&job=240000C3",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_cfcb6476cc94",
+    "url": "https://private.invalid/dc523ca073a0ea81d67aca9f",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "543baf54676518c8",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "docs.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://docs.google.com/document/d/1G0bVvVYTgs4AgffUGb5-B8QJgcWwDkuxJxI38isGcug/edit",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/76442ee7f42acef74f41dc24",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/job search",
+    "source_path": "private/44f9f4a99d953908",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -337,9 +359,9 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "KG.Cybersecurity Resume - Google Docs",
-    "url": "https://docs.google.com/document/d/1G0bVvVYTgs4AgffUGb5-B8QJgcWwDkuxJxI38isGcug/edit",
-    "visibility_flag": "REVIEW"
+    "title": "PRIVATE_33e04c2b2de1",
+    "url": "https://private.invalid/bf10f17136b64516711e3ccf",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "c42fb6ed85ae9162",
@@ -397,12 +419,14 @@
     "bookmark_id": "246813871d71fca1",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "app.trinethire.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://app.trinethire.com/companies/32969-blackpoint-cyber/jobs/56727-mdr-analyst",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/e3940e06a7ea3a5bf756e5cd",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/job search",
+    "source_path": "private/44f9f4a99d953908",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -415,9 +439,9 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "MDR Analyst",
-    "url": "https://app.trinethire.com/companies/32969-blackpoint-cyber/jobs/56727-mdr-analyst",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_920347a2195c",
+    "url": "https://private.invalid/c48b8170298854745cb556cb",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "9e9717f889d8f252",
@@ -451,12 +475,14 @@
     "bookmark_id": "446b03e4bd4b0188",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "journaliststudio.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://journaliststudio.google.com/pinpoint/search?collection=092314e384a58618",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/4a35b7ec6144e6e8eed8cb78",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Portfolio Site",
+    "source_path": "private/414e2786e5d277f8",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -471,20 +497,22 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "Pinpoint - From the Estate of Jeffrey Epstein",
-    "url": "https://journaliststudio.google.com/pinpoint/search?collection=092314e384a58618&utm_source=collection_share_link",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_726fe1c67c81",
+    "url": "https://private.invalid/ff9eb992336888b7bcfe495d",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "3e04bc55e75d6f33",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "vercel.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://vercel.com/templates/next.js/portfolio-starter-kit",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/aafeb058b10af30d6ca9b47a",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Portfolio Site",
+    "source_path": "private/414e2786e5d277f8",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -497,9 +525,9 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "Portfolio Starter Kit",
-    "url": "https://vercel.com/templates/next.js/portfolio-starter-kit",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_0d609614b215",
+    "url": "https://private.invalid/3632e2f5f211d244c8cf0b94",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "df1f1308cd70fcd7",
@@ -531,12 +559,14 @@
     "bookmark_id": "fb8b85936f67832c",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "docs.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://docs.google.com/document/d/1A2lra9hKZoP59xalo0KRteqDL1--B8ixmsvtWCxrB-k/edit",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/e8081f2f999f5f67d1afa7c6",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/job search",
+    "source_path": "private/44f9f4a99d953908",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -549,20 +579,22 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "Sample of Excellence - SE - Google Docs",
-    "url": "https://docs.google.com/document/d/1A2lra9hKZoP59xalo0KRteqDL1--B8ixmsvtWCxrB-k/edit",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_51e2b269c37c",
+    "url": "https://private.invalid/b8cead8c8d0a4a4fe49b73d3",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "a5cafbd4137cfcf5",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "docs.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://docs.google.com/document/d/1DtUh2KYcyGEW_LtXaZka_I4pD8j0pa5vl46yZXNXv_A/edit",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/a43f96410376fe876b36e8e3",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/job search",
+    "source_path": "private/44f9f4a99d953908",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -575,9 +607,9 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "SE Updated Resume - Google Docs",
-    "url": "https://docs.google.com/document/d/1DtUh2KYcyGEW_LtXaZka_I4pD8j0pa5vl46yZXNXv_A/edit",
-    "visibility_flag": "REVIEW"
+    "title": "PRIVATE_df2191795ad5",
+    "url": "https://private.invalid/f077dc8f499913af5545128f",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "0680347914b9082c",
@@ -611,12 +643,14 @@
     "bookmark_id": "76998047a56580b6",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "careers.hireology.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://careers.hireology.com/stig/562696/description",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/d99a641c10d34fd82bda3e7c",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/job search",
+    "source_path": "private/44f9f4a99d953908",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -629,20 +663,22 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "SOC Analyst I | Remote | STIGroup, Ltd.",
-    "url": "https://careers.hireology.com/stig/562696/description",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_05b1dd38a9cb",
+    "url": "https://private.invalid/9c6cdbbaf7586b7b393bbff8",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "f707a734687cf104",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "colab.research.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://colab.research.google.com/drive/1i2AEQsYnF0PVV63HkAVjsf8LB6tA8MoX?usp=sharing",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/5c56095ef6e412ac1f3756b1",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/job search",
+    "source_path": "private/44f9f4a99d953908",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
@@ -657,9 +693,9 @@
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "Stable Diffusion QR Code - Colaboratory",
-    "url": "https://colab.research.google.com/drive/1i2AEQsYnF0PVV63HkAVjsf8LB6tA8MoX?usp=sharing",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_3247b722b3a0",
+    "url": "https://private.invalid/38e688b2106ed962a587508a",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "3862d614ee07156d",
@@ -745,27 +781,31 @@
     "bookmark_id": "56fa69a9d5f68179",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "workat.doximity.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://workat.doximity.com/positions?gh_jid=5063262&gh_src=b60128071us",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/01cba79dce6a56d911ffd59a",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Jobs & Interviews",
+    "source_path": "private/df3a03e596b5cbbc",
     "status": "ACTIVE",
     "tag_confidence": {
       "CAREER": 86,
-      "JOB_SEARCH": 86
+      "JOB_SEARCH": 86,
+      "PRIVATE_PERSONAL": 95
     },
     "tags": [
       "CAREER",
-      "JOB_SEARCH"
+      "JOB_SEARCH",
+      "PRIVATE_PERSONAL"
     ],
     "taxonomy_category": "CAREER",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "JOB_SEARCH",
-    "title": "Work @ Doximity | Open Positions",
-    "url": "https://workat.doximity.com/positions/?gh_jid=5063262&gh_src=b60128071us",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_6be1e4e1cf1d",
+    "url": "https://private.invalid/d00b06c36c3a68a8b8263e61",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "f83f870b7ba942c4",
@@ -1057,12 +1097,14 @@
     "bookmark_id": "6aef584a53d48b09",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "www.worldbank.org",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.worldbank.org/en/topic/governance/brief/global-public-procurement-database",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/8c888b5e7df5fddb8dc056cf",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "DATABASES": 86,
@@ -1077,8 +1119,8 @@
     "taxonomy_category": "DEV",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "DATABASES",
-    "title": "World Bank Procurement Database:",
-    "url": "https://www.worldbank.org/en/topic/governance/brief/global-public-procurement-database",
+    "title": "PRIVATE_0e0068c5477d",
+    "url": "https://private.invalid/5691c3c33eb888b6d1ce1211",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -1191,12 +1233,14 @@
     "bookmark_id": "5f983c3aef65e2f7",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "www.perplexity.ai",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.perplexity.ai/search/1st-for-kali-linux-vm-i-would-f8WkW2lTQxiv_wHiXikXvQ",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/d59b137855137d6a565ac9bf",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/pins",
+    "source_path": "private/f68be9066b0c4ef5",
     "status": "ACTIVE",
     "tag_confidence": {
       "DEV": 86,
@@ -1211,9 +1255,9 @@
     "taxonomy_category": "DEV",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "LINUX",
-    "title": "1st for Kali Linux Vm, I would like to have a well-rounded (completely free)...",
-    "url": "https://www.perplexity.ai/search/1st-for-kali-linux-vm-i-would-f8WkW2lTQxiv_wHiXikXvQ",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_6282dc139a79",
+    "url": "https://private.invalid/a6a85df59bae7822a87880e6",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "cf4d2b0b55741bb6",
@@ -1485,12 +1529,14 @@
     "bookmark_id": "897e3665b6475676",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "boards.greenhouse.io",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://boards.greenhouse.io/canonicaljobs/jobs/6059153?gh_src=47afbd801us",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/1e005a77ef651e447ded69ce",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/jobs july",
+    "source_path": "private/f5cfb1278b40e196",
     "status": "ACTIVE",
     "tag_confidence": {
       "DEV": 86,
@@ -1505,8 +1551,8 @@
     "taxonomy_category": "DEV",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "LINUX",
-    "title": "Job Application for Linux Desktop Support Associate at Canonical - Jobs",
-    "url": "https://boards.greenhouse.io/canonicaljobs/jobs/6059153?gh_src=47afbd801us",
+    "title": "PRIVATE_ed5d664b4780",
+    "url": "https://private.invalid/a05c2d1228b812813b6df453",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -1623,12 +1669,14 @@
     "bookmark_id": "e461d4b026a5e2b6",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "anzeljg.github.io",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/ee29ff36600dff5cc4f38121",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/python",
+    "source_path": "private/635a9e16914f40f1",
     "status": "ACTIVE",
     "tag_confidence": {
       "DEV": 88,
@@ -1645,8 +1693,8 @@
     "taxonomy_category": "DEV",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "PYTHON",
-    "title": "8. The Canvas widget",
-    "url": "https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/canvas.html",
+    "title": "PRIVATE_824b5b9b7386",
+    "url": "https://private.invalid/73225e43b08270f340ececfe",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -2211,12 +2259,14 @@
     "bookmark_id": "bfd2129fc1138aaf",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "www.forensafe.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.forensafe.com/artifact-reference.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/9bb45d55b36a4a964d143b72",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "DEV": 86,
@@ -2229,9 +2279,9 @@
     "taxonomy_category": "DEV",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "WEBDEV",
-    "title": "Artifact Browser",
-    "url": "https://www.forensafe.com/artifact-reference.html",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_35c702f6e18a",
+    "url": "https://private.invalid/f35ca8a0a689772cde27c61a",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "db53d03cc0eb28d8",
@@ -2689,12 +2739,14 @@
     "bookmark_id": "b247d6a4989c24d7",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "uisurgeon.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://uisurgeon.com/tools/css-animation-generator",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/6f2d83fbfcc914a25e472d47",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CSS Resources",
+    "source_path": "private/4f0ca5c9205e02a0",
     "status": "ACTIVE",
     "tag_confidence": {
       "DEV": 86,
@@ -2709,8 +2761,8 @@
     "taxonomy_category": "DEV",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "WEBDEV",
-    "title": "CSS Animation Generator – Drag & Preview Keyframes Instantly | UI Surgeon",
-    "url": "https://uisurgeon.com/tools/css-animation-generator",
+    "title": "PRIVATE_9a96176cd5e2",
+    "url": "https://private.invalid/eeed73d283b45e1e0dfe2b6f",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -2955,12 +3007,14 @@
     "bookmark_id": "56d4b6522c2d12be",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "www.google.com.au",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.google.com.au/search?q=cowboy+boots+AND+near+sydney&safe=strict&glp=1&adtest=on&tci=g%3A2036&uule=w+CAIQICIJQXVzdHJhbGlh&adtest-useragent=Mozilla%2F5.0+%28Linux%3B+U%3B+Android-4.0.3%3B+en-us%3B+Xoom+Build%2FIML77%29+AppleWebKit%2F535.7+%28KHTML%2C+like+Gecko%29+CrMo%2F16.0.912.75+Safari%2F535.7&oq=cowboy+boots+AND+near+sydney&gs_l=heirloom-serp.3...3525.3898.0.4005.6.2.0.3.0.0.171.301.0j2.2.0....0...1ac.1.34.heirloom-serp..5.1.130.fun-5TipiJM",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/998abef42bb613ef46872f08",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "DEV": 86,
@@ -2977,8 +3031,8 @@
     "taxonomy_category": "DEV",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "WEBDEV",
-    "title": "Google NEAR Keyword Sample (Google)",
-    "url": "https://www.google.com.au/search?q=cowboy+boots+AND+near+sydney&safe=strict&glp=1&adtest=on&tci=g:2036&uule=w+CAIQICIJQXVzdHJhbGlh&adtest-useragent=Mozilla/5.0+(Linux;+U;+Android-4.0.3;+en-us;+Xoom+Build/IML77)+AppleWebKit/535.7+(KHTML,+like+Gecko)+CrMo/16.0.912.75+Safari/535.7&oq=cowboy+boots+AND+near+sydney&gs_l=heirloom-serp.3...3525.3898.0.4005.6.2.0.3.0.0.171.301.0j2.2.0....0...1ac.1.34.heirloom-serp..5.1.130.fun-5TipiJM",
+    "title": "PRIVATE_9b9cf07fd0a0",
+    "url": "https://private.invalid/20dc9d7717698f6eecb757db",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -3011,12 +3065,14 @@
     "bookmark_id": "60816fe43a7aa968",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "gaultier.github.io",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://gaultier.github.io/blog/x11_x64.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/d88e1b4aa4b7296e2affc0de",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/job search",
+    "source_path": "private/44f9f4a99d953908",
     "status": "ACTIVE",
     "tag_confidence": {
       "DEV": 86,
@@ -3031,9 +3087,9 @@
     "taxonomy_category": "DEV",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "WEBDEV",
-    "title": "https://gaultier.github.io/blog/x11_x64.html",
-    "url": "https://gaultier.github.io/blog/x11_x64.html",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_15b33bc34e33",
+    "url": "https://private.invalid/9d57840f323f84b734a62688",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "8b3bdd548c165dde",
@@ -3119,12 +3175,14 @@
     "bookmark_id": "56f3f5848aac07cb",
     "classification_confidence": 86,
     "date_added": "2026-08-10",
-    "domain": "docs.ameliorated.io",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://docs.ameliorated.io/playbooks.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/fa43cb44101912bc4558d05c",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Portfolio Site",
+    "source_path": "private/414e2786e5d277f8",
     "status": "ACTIVE",
     "tag_confidence": {
       "DEV": 86,
@@ -3137,9 +3195,9 @@
     "taxonomy_category": "DEV",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "WEBDEV",
-    "title": "Installing Playbooks - Ameliorated Documentation",
-    "url": "https://docs.ameliorated.io/playbooks.html",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_72206be19c49",
+    "url": "https://private.invalid/8804a426b08e373f43908588",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "4024736b7750d07c",
@@ -4153,12 +4211,14 @@
     "bookmark_id": "c682122a751fd917",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "ubalt.instructure.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ubalt.instructure.com/courses/8453",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/7d30f83bf74a1ee8a1388527",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/pins",
+    "source_path": "private/f68be9066b0c4ef5",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4173,20 +4233,22 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "(HIST 205.001 Sp26) African American History Since 1865 - Denit Honors Enhanced Course",
-    "url": "https://ubalt.instructure.com/courses/8453",
+    "title": "PRIVATE_79deae2a6a0a",
+    "url": "https://private.invalid/1f44c136ae02773b26fb43f5",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "8c27c5530679969e",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "nationalwomenshistoryalliance.org",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://nationalwomenshistoryalliance.org/past-womens-history-months/2015-national-womens-history-month-honorees",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/e6272aadbd64c517884b5046",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4199,9 +4261,9 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "2015 Theme and 2015 National Women's History Month Honorees - National Women's History Alliance",
-    "url": "https://nationalwomenshistoryalliance.org/past-womens-history-months/2015-national-womens-history-month-honorees/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_b7cd7ae5658e",
+    "url": "https://private.invalid/559786c19d058803dd295f90",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "59c139d96001c284",
@@ -4235,12 +4297,14 @@
     "bookmark_id": "a8ba9416d300db14",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "ubalt.hosted.panopto.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ubalt.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=1&nomobileprompt=true",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/4fd359aa99a29e9d01ea0530",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-310",
+    "source_path": "private/6088b0214beb98ad",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4255,8 +4319,8 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "2026 Spring - (CYFI 310.TW1 Sp26) Cyber Crime and the Law (1262CYFI310TW1) : Panopto",
-    "url": "https://ubalt.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=1&nomobileprompt=true#folderID=%2283a8709a-15b6-4077-8b40-b3d10100d110%22",
+    "title": "PRIVATE_7ea0c1cfd691",
+    "url": "https://private.invalid/065a9641518b9b71b0a2adcd",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -4397,12 +4461,14 @@
     "bookmark_id": "200a9c5cc0a54359",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "ubalt-my.sharepoint.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ubalt-my.sharepoint.com/personal/id67oe66_ubalt_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fid67oe66_ubalt_edu%2FDocuments%2FApple+iPhone+XR+Full+01-04&ga=1",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/8e0f9774b6048cc734c2f72a",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/AI Stack",
+    "source_path": "private/d7bc705c37a04733",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4417,20 +4483,22 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "Apple iPhone XR Full 01-04 - OneDrive",
-    "url": "https://ubalt-my.sharepoint.com/personal/id67oe66_ubalt_edu/_layouts/15/onedrive.aspx?id=/personal/id67oe66_ubalt_edu/Documents/Apple+iPhone+XR+Full+01-04&ga=1",
+    "title": "PRIVATE_be5ac2e22116",
+    "url": "https://private.invalid/6922d1eb72594f03d2f3f97d",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "eaf6d53d01d903cc",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "ubalt.instructure.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ubalt.instructure.com/courses/8458/assignments",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/2e52125656e9fd1eb3d3a0b0",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-310",
+    "source_path": "private/6088b0214beb98ad",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4445,8 +4513,8 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "Assignments: (CYFI 310.TW1 Sp26) Cyber Crime and the Law",
-    "url": "https://ubalt.instructure.com/courses/8458/assignments",
+    "title": "PRIVATE_e3872fc7513c",
+    "url": "https://private.invalid/45c4d0b5ddad12ee63fda177",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -4559,12 +4627,14 @@
     "bookmark_id": "36049d1cdfde1ef4",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "ubalt.instructure.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ubalt.instructure.com/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/773fd6b62fbc63f3bb25ea4f",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/General Sites",
+    "source_path": "private/0f03583c578d63e6",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4579,8 +4649,8 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "Dashboard",
-    "url": "https://ubalt.instructure.com/",
+    "title": "PRIVATE_6cd69a13548f",
+    "url": "https://private.invalid/641562f947dd2a4f897fa6df",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -4693,12 +4763,14 @@
     "bookmark_id": "97fcc6ca492b067d",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "ubalt-my.sharepoint.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ubalt-my.sharepoint.com/personal/id92ln18_ubalt_edu/_layouts/15/onedrive.aspx?e=5%3A6af331e93c914d1b934205eae40ac063&sharingv2=true&fromShare=true&at=9&CT=1769731614580&OR=OWA-NT-Mail&CID=46db1cc6-6c82-caf4-840d-ac7f2c1aa93f&id=%2Fpersonal%2Fid92ln18_ubalt_edu%2FDocuments%2FVideos%2FHIST+205&FolderCTID=0x012000759D2B37022AFE49872D1ECBC34A9CF6&view=0",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/112ed5be988b1dfeaae2dd41",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4713,8 +4785,8 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "HIST 205 - OneDrive",
-    "url": "https://ubalt-my.sharepoint.com/personal/id92ln18_ubalt_edu/_layouts/15/onedrive.aspx?e=5:6af331e93c914d1b934205eae40ac063&sharingv2=true&fromShare=true&at=9&CT=1769731614580&OR=OWA-NT-Mail&CID=46db1cc6-6c82-caf4-840d-ac7f2c1aa93f&id=/personal/id92ln18_ubalt_edu/Documents/Videos/HIST+205&FolderCTID=0x012000759D2B37022AFE49872D1ECBC34A9CF6&view=0",
+    "title": "PRIVATE_b1103ba32506",
+    "url": "https://private.invalid/9aa207ee3b3b2fb33ab5d860",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -4829,12 +4901,14 @@
     "bookmark_id": "4202f5b86a7696f3",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "outlook.office365.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://outlook.office365.com/mail",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/0d53b31ee11706c0d2fbbf8e",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/E-mail",
+    "source_path": "private/5d86c13fc2eaf661",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4849,20 +4923,22 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "Mail - UBalt - Jenifer Hammond - Outlook",
-    "url": "https://outlook.office365.com/mail/",
+    "title": "PRIVATE_41a8195858a7",
+    "url": "https://private.invalid/ff86e993589641ae671800e5",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "a2f951d08b91f834",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "myubalt.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://myubalt.ubalt.edu/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/6676d3c03fcf7eba8826a65b",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/General Sites",
+    "source_path": "private/0f03583c578d63e6",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4877,20 +4953,22 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "MyUBalt Portal",
-    "url": "https://myubalt.ubalt.edu/",
+    "title": "PRIVATE_eca9a5aab6d0",
+    "url": "https://private.invalid/53725ede443b92c85ef3530a",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "ce2477b344cb2ee0",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "horizon.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://horizon.ubalt.edu/?includeNativeClientLaunch=true",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/7073cfb80b6bf10679be153b",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/General Sites",
+    "source_path": "private/0f03583c578d63e6",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4905,20 +4983,22 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "Omnissa Horizon",
-    "url": "https://horizon.ubalt.edu/?includeNativeClientLaunch=true",
+    "title": "PRIVATE_6dae4da45225",
+    "url": "https://private.invalid/71f5058afa9870a46773b22e",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "c8205edbd24cf4e7",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "canvas.sans.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://canvas.sans.edu/courses/475/pages/ondemand-courses?module_item_id=8128",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/093ecb52a56f2a04903f7848",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/SANS Institute",
+    "source_path": "private/1787d8e90718e316",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -4933,8 +5013,8 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "OnDemand Courses: Academies Orientation and Support",
-    "url": "https://canvas.sans.edu/courses/475/pages/ondemand-courses?module_item_id=8128",
+    "title": "PRIVATE_279fd2daa153",
+    "url": "https://private.invalid/d13c8086cc64cee9e5a59b60",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -5123,12 +5203,14 @@
     "bookmark_id": "d5926f46f18ddc91",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "myubalt.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://myubalt.ubalt.edu/information-library/academic-support-and-resources/academic-support/tutoring-and-support/writing-center.cfm",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/1295d7b935f731c3ade677ce",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/history",
+    "source_path": "private/2fe3c683147f2d31",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -5143,8 +5225,8 @@
     "taxonomy_category": "EDUCATION",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "COURSES",
-    "title": "Writing Center",
-    "url": "https://myubalt.ubalt.edu/information-library/academic-support-and-resources/academic-support/tutoring-and-support/writing-center.cfm",
+    "title": "PRIVATE_51bec50cb29d",
+    "url": "https://private.invalid/22ca894b0791492cfd0f758d",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -7047,12 +7129,14 @@
     "bookmark_id": "64182b336622a5d9",
     "classification_confidence": 90,
     "date_added": "2026-08-10",
-    "domain": "blog.digital-forensics.it",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://blog.digital-forensics.it/2024/01/a-first-look-at-android-14-forensics.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/e720eb1e77ce4942de7df9f7",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "DFIR": 90,
@@ -7067,9 +7151,9 @@
     "taxonomy_category": "INFSEC",
     "taxonomy_leaf": "TOOLS",
     "taxonomy_subcategory": "DFIR",
-    "title": "A first look at Android 14 forensics",
-    "url": "https://blog.digital-forensics.it/2024/01/a-first-look-at-android-14-forensics.html",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_fb0917d919d9",
+    "url": "https://private.invalid/e21c145d6aa508e3703ad4ed",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "a2681293ea9a4700",
@@ -7103,12 +7187,14 @@
     "bookmark_id": "bccf8fe2a2b4b54f",
     "classification_confidence": 90,
     "date_added": "2026-08-10",
-    "domain": "blog.d204n6.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://blog.d204n6.com/2021/01/android-roles-and-permissions-android.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/2b44cc45fb2c838146781454",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "DFIR": 90,
@@ -7123,9 +7209,9 @@
     "taxonomy_category": "INFSEC",
     "taxonomy_leaf": "TOOLS",
     "taxonomy_subcategory": "DFIR",
-    "title": "D20 Forensics: Android - Roles and Permissions (Android 10/11)",
-    "url": "https://blog.d204n6.com/2021/01/android-roles-and-permissions-android.html",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_e0b673055063",
+    "url": "https://private.invalid/1aecfa17d295e8420cc4913f",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "6affcd2182e3a25f",
@@ -7441,12 +7527,14 @@
     "bookmark_id": "8fb66f7c82a9f39a",
     "classification_confidence": 90,
     "date_added": "2026-08-10",
-    "domain": "abrignoni.blogspot.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://abrignoni.blogspot.com/2020/06/dfir-python-study-group-syllabus.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/3110c9a43c2cf81149c35801",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "DFIR": 90,
@@ -7461,20 +7549,22 @@
     "taxonomy_category": "INFSEC",
     "taxonomy_leaf": "TOOLS",
     "taxonomy_subcategory": "DFIR",
-    "title": "Initialization vectors: DFIR Python Study Group Syllabus",
-    "url": "https://abrignoni.blogspot.com/2020/06/dfir-python-study-group-syllabus.html",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_fc1b8565abb6",
+    "url": "https://private.invalid/146a421f64b7032d2e4bbace",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "2a23417309ddd525",
     "classification_confidence": 90,
     "date_added": "2026-08-10",
-    "domain": "abrignoni.blogspot.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://abrignoni.blogspot.com/2020/07/dfir-python-study-group-syllabus-part-2.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/52e73f58456bc9f2a0593451",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "DFIR": 90,
@@ -7489,20 +7579,22 @@
     "taxonomy_category": "INFSEC",
     "taxonomy_leaf": "TOOLS",
     "taxonomy_subcategory": "DFIR",
-    "title": "Initialization vectors: DFIR Python Study Group Syllabus Part 2",
-    "url": "https://abrignoni.blogspot.com/2020/07/dfir-python-study-group-syllabus-part-2.html",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_cb2c4dd3bed7",
+    "url": "https://private.invalid/b57f84ded367bb399894fd15",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "fe5881253d09c895",
     "classification_confidence": 90,
     "date_added": "2026-08-10",
-    "domain": "abrignoni.blogspot.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://abrignoni.blogspot.com/2020/07/dfir-resources.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/5f86ba81956c780b90b5a5e5",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "DFIR": 90,
@@ -7517,9 +7609,9 @@
     "taxonomy_category": "INFSEC",
     "taxonomy_leaf": "TOOLS",
     "taxonomy_subcategory": "DFIR",
-    "title": "Initialization vectors: DFIR Resources",
-    "url": "https://abrignoni.blogspot.com/2020/07/dfir-resources.html",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_89ad6b4b1c7a",
+    "url": "https://private.invalid/5beb176cbe335217e9e9eb31",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "19381bd84f992e07",
@@ -7703,12 +7795,14 @@
     "bookmark_id": "63cb3d02a3ce362f",
     "classification_confidence": 90,
     "date_added": "2026-08-10",
-    "domain": "www.dfir.training",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.dfir.training/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/e892cd0c9036a300c448395b",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "DFIR": 90,
@@ -7723,9 +7817,9 @@
     "taxonomy_category": "INFSEC",
     "taxonomy_leaf": "TOOLS",
     "taxonomy_subcategory": "DFIR",
-    "title": "Upcoming Featured Events",
-    "url": "https://www.dfir.training/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_4de7ffdab245",
+    "url": "https://private.invalid/8307cc90b002829c9cc61b6e",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "8d6ccfe75638b587",
@@ -9587,12 +9681,14 @@
     "bookmark_id": "8070ddf0e2a020de",
     "classification_confidence": 89,
     "date_added": "2026-08-10",
-    "domain": "ashishb.net",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ashishb.net/programming/android-sqlite",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/b5991c2fc7d8bc6a64bb272f",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "INFSEC": 89,
@@ -9607,9 +9703,9 @@
     "taxonomy_category": "INFSEC",
     "taxonomy_leaf": "WEB",
     "taxonomy_subcategory": "PENTEST",
-    "title": "Android: The right way to pull SQLite database",
-    "url": "https://ashishb.net/programming/android-sqlite/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_3287c64f65eb",
+    "url": "https://private.invalid/ea8627019680e762a1f9e6dc",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "2931f4e42e033da1",
@@ -9933,29 +10029,33 @@
     "bookmark_id": "ccfe49a58c870026",
     "classification_confidence": 89,
     "date_added": "2026-08-10",
-    "domain": "app.hackthebox.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://app.hackthebox.com/home",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/e6c620f8941c6449c1a91675",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CTF",
+    "source_path": "private/4ce9f17c5b6e27b5",
     "status": "ACTIVE",
     "tag_confidence": {
       "INFSEC": 89,
       "PENTEST": 89,
+      "PRIVATE_PERSONAL": 95,
       "WEB": 89
     },
     "tags": [
       "INFSEC",
       "PENTEST",
+      "PRIVATE_PERSONAL",
       "WEB"
     ],
     "taxonomy_category": "INFSEC",
     "taxonomy_leaf": "WEB",
     "taxonomy_subcategory": "PENTEST",
-    "title": "Hack The Box :: Dashboard",
-    "url": "https://app.hackthebox.com/home",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_3f01f8ba1714",
+    "url": "https://private.invalid/b35a570b9fca9619e50ad639",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "2b61f36e5d94f0ff",
@@ -10073,29 +10173,33 @@
     "bookmark_id": "ef06c7344b2b6db5",
     "classification_confidence": 89,
     "date_added": "2026-08-10",
-    "domain": "account.hackthebox.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://account.hackthebox.com/login",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/152df9ba37287caa4ba97d87",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CTF",
+    "source_path": "private/4ce9f17c5b6e27b5",
     "status": "ACTIVE",
     "tag_confidence": {
       "INFSEC": 89,
       "PENTEST": 89,
+      "PRIVATE_PERSONAL": 95,
       "WEB": 89
     },
     "tags": [
       "INFSEC",
       "PENTEST",
+      "PRIVATE_PERSONAL",
       "WEB"
     ],
     "taxonomy_category": "INFSEC",
     "taxonomy_leaf": "WEB",
     "taxonomy_subcategory": "PENTEST",
-    "title": "HTB Account",
-    "url": "https://account.hackthebox.com/login",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_20aca5e6fb55",
+    "url": "https://private.invalid/5cf092ec4db471d104de7b37",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "c05170ed7d58826a",
@@ -10981,12 +11085,14 @@
     "bookmark_id": "b7f2e8c4fe2db4d4",
     "classification_confidence": 84,
     "date_added": "2026-08-10",
-    "domain": "keithwhor.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://keithwhor.com/music",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/7364a5f3da8325600126eaa0",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Cool Sites 2026",
+    "source_path": "private/4151e0a5f8ff6823",
     "status": "ACTIVE",
     "tag_confidence": {
       "MEDIA": 84,
@@ -11001,8 +11107,8 @@
     "taxonomy_category": "MEDIA",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "STREAMING",
-    "title": "Musical Keyboard - JS Dynamic Audio Synth",
-    "url": "https://keithwhor.com/music/",
+    "title": "PRIVATE_b198b57e3a79",
+    "url": "https://private.invalid/4758cc105d0eec61329ce366",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -11539,12 +11645,14 @@
     "bookmark_id": "b06e2a496728c548",
     "classification_confidence": 91,
     "date_added": "2026-08-10",
-    "domain": "dehashed.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://dehashed.com/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/04c44e093c95384d5072c279",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "OPSEC": 91,
@@ -11559,8 +11667,8 @@
     "taxonomy_category": "PRIVACY",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "OPSEC",
-    "title": "DeHashed — #FreeThePassword",
-    "url": "https://dehashed.com/",
+    "title": "PRIVATE_027defeef199",
+    "url": "https://private.invalid/db697386ae24dd3ba93232a6",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -11649,12 +11757,14 @@
     "bookmark_id": "9bc6e837669072d9",
     "classification_confidence": 91,
     "date_added": "2026-08-10",
-    "domain": "account.proton.me",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://account.proton.me/login?language=en",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/0a882b948f74955965853ba6",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/E-mail",
+    "source_path": "private/5d86c13fc2eaf661",
     "status": "ACTIVE",
     "tag_confidence": {
       "OPSEC": 91,
@@ -11669,8 +11779,8 @@
     "taxonomy_category": "PRIVACY",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "OPSEC",
-    "title": "Protonmail",
-    "url": "https://account.proton.me/login?language=en",
+    "title": "PRIVATE_35e388b47754",
+    "url": "https://private.invalid/e5da99deacf6a2abcd0c6db0",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -11731,12 +11841,14 @@
     "bookmark_id": "2168c5d621ca65cd",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "nmaahc.si.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://nmaahc.si.edu/explore/stories/13th-amendment-constitution-united-states",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/95ae6e06d07b5d0ef4e4297a",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -11749,20 +11861,22 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "13th Amendment to the Constitution of the United States | National Museum of African American History and Culture",
-    "url": "https://nmaahc.si.edu/explore/stories/13th-amendment-constitution-united-states",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_761f7d67c94e",
+    "url": "https://private.invalid/45f61b3b9e3e92cbc0e575f3",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "d9beaa61b5078a8e",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "nmaahc.si.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://nmaahc.si.edu/explore/exhibitions/reconstruction/voting-rights",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/fe042b78e6658b3d81ed9f76",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -11775,9 +11889,9 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "150 Years and Counting | National Museum of African American History and Culture",
-    "url": "https://nmaahc.si.edu/explore/exhibitions/reconstruction/voting-rights",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_036aab0324dc",
+    "url": "https://private.invalid/a43f712de7262590844c8dc4",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "867a4a855337a4b4",
@@ -11997,12 +12111,14 @@
     "bookmark_id": "dee90abb0839c330",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "archivesspace.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://archivesspace.ubalt.edu/repositories/2/archival_objects/80730",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/6d9ab232fcb89ac722901ab1",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Investigations",
+    "source_path": "private/8b285ec9fcd864b1",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -12017,8 +12133,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Academic Freedom, High School Teachers (3-7, 12-3, 23-11, 29-6, 47-6, 48-6, 61-7) | University of Baltimore Library Archives",
-    "url": "https://archivesspace.ubalt.edu/repositories/2/archival_objects/80730",
+    "title": "PRIVATE_adf1c3120aed",
+    "url": "https://private.invalid/c760331174220b7257c5075d",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -12051,12 +12167,14 @@
     "bookmark_id": "9dc11df46bafb8ea",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "archives.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://archives.ubalt.edu/bsr/archival-resources/documents/afro-40-years.pdf",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/b327dd238705978464718c16",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Baltimore History",
+    "source_path": "private/cc221b0e5e5c57bf",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -12071,8 +12189,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "afro-40-years.pdf",
-    "url": "https://archives.ubalt.edu/bsr/archival-resources/documents/afro-40-years.pdf",
+    "title": "PRIVATE_86be4887fa7f",
+    "url": "https://private.invalid/bded55a5ccf4b643d15901df",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -12341,12 +12459,14 @@
     "bookmark_id": "3a82f78a10757002",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "archives.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://archives.ubalt.edu/bsr/images/lioi.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/b02da1b2512c66e13fa2d9bf",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Baltimore History",
+    "source_path": "private/cc221b0e5e5c57bf",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -12361,20 +12481,22 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Baltimore '68: Riots and Rebirth",
-    "url": "https://archives.ubalt.edu/bsr/images/lioi.html",
+    "title": "PRIVATE_26a5c547dd37",
+    "url": "https://private.invalid/b316e954d04665d3c86f88f0",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "d6c71675aadc02e2",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "archives.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://archives.ubalt.edu/bsr/images/parker.html",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/b9609d835954a880061601e3",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Baltimore History",
+    "source_path": "private/cc221b0e5e5c57bf",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -12389,8 +12511,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Baltimore '68: Riots and Rebirth",
-    "url": "https://archives.ubalt.edu/bsr/images/parker.html",
+    "title": "PRIVATE_26a5c547dd37",
+    "url": "https://private.invalid/a11832587b689b8d00b2e239",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -12839,12 +12961,14 @@
     "bookmark_id": "7be1f95426ce0df3",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "rediscovering-black-history.blogs.archives.gov",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://rediscovering-black-history.blogs.archives.gov/category/black-women",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/f8c56785361291b8b2c5f585",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -12857,9 +12981,9 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Black Women – Rediscovering Black History",
-    "url": "https://rediscovering-black-history.blogs.archives.gov/category/black-women/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_819e332b6eea",
+    "url": "https://private.invalid/c9e175c08f017c6a75100030",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "42b567c1d5600e85",
@@ -13047,12 +13171,14 @@
     "bookmark_id": "787856b25736602c",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "ubalt-my.sharepoint.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ubalt-my.sharepoint.com/personal/id67oe66_ubalt_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fid67oe66_ubalt_edu%2FDocuments%2FCYFI+700+330%2FChapter+12&ga=1",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/e0ac361a0c48807647d982a3",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/UBalt Archives",
+    "source_path": "private/208a629a0d744828",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -13067,8 +13193,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Chapter 12 - OneDrive",
-    "url": "https://ubalt-my.sharepoint.com/personal/id67oe66_ubalt_edu/_layouts/15/onedrive.aspx?id=/personal/id67oe66_ubalt_edu/Documents/CYFI+700+330/Chapter+12&ga=1",
+    "title": "PRIVATE_17def4d4306d",
+    "url": "https://private.invalid/138acf62da0dc088cb9d8542",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -13283,12 +13409,14 @@
     "bookmark_id": "bb331209aa4f584b",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "archivesspace.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://archivesspace.ubalt.edu/repositories/resources?q%5B%5D=%2A&op%5B%5D=&field%5B%5D=title&from_year%5B%5D=&to_year%5B%5D=&limit=resource&filter_fields%5B%5D=repository&filter_values%5B%5D=%2Frepositories%2F4&sort=title_sort+asc&page=3",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/f4eceed229ca0d4acdb84fae",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/UBalt Archives",
+    "source_path": "private/208a629a0d744828",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -13303,8 +13431,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Collections | University of Baltimore Library Archives",
-    "url": "https://archivesspace.ubalt.edu/repositories/resources?q%5B%5D=*&op%5B%5D&field%5B%5D=title&from_year%5B%5D&to_year%5B%5D&limit=resource&filter_fields%5B%5D=repository&filter_values%5B%5D=/repositories/4&sort=title_sort+asc&page=3",
+    "title": "PRIVATE_cb811f828f3c",
+    "url": "https://private.invalid/d2179fe372290f68e5efdab6",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -13363,12 +13491,14 @@
     "bookmark_id": "da27651f2e016a2b",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "nmaahc.si.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://nmaahc.si.edu/explore/exhibitions/reconstruction/defining-freedom",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/dd8f499c3d2dfdc9074c4d88",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -13381,20 +13511,22 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Defining Freedom | National Museum of African American History and Culture",
-    "url": "https://nmaahc.si.edu/explore/exhibitions/reconstruction/defining-freedom",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_6b9d22e605f0",
+    "url": "https://private.invalid/61ca14e8dce7e6be3a80c537",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "ab373321b25120b6",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "web.archive.org",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://web.archive.org/web/20220128163203/http://darkroom.baltimoresun.com/2016/07/exploring-lexington-markets-underground-vaults",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/912c26e5f8e90a949f5eb5ec",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -13407,9 +13539,9 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Exploring Lexington Market’s underground vaults",
-    "url": "https://web.archive.org/web/20220128163203/http://darkroom.baltimoresun.com/2016/07/exploring-lexington-markets-underground-vaults/#1",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_9b95468de84f",
+    "url": "https://private.invalid/aceb8ff828b0ca543884d098",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "5e6fae04849d91b6",
@@ -13493,12 +13625,14 @@
     "bookmark_id": "7d536738d2ea4d00",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "archivesspace.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://archivesspace.ubalt.edu/repositories/4/resources/178/inventory",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/723af62e906c99d98a00f55f",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Investigations",
+    "source_path": "private/8b285ec9fcd864b1",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -13513,8 +13647,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Found 34 Results | University of Baltimore Library Archives",
-    "url": "https://archivesspace.ubalt.edu/repositories/4/resources/178/inventory",
+    "title": "PRIVATE_c23c13d27060",
+    "url": "https://private.invalid/8a66450b546ff40b3f451d6e",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -13603,12 +13737,14 @@
     "bookmark_id": "c22c72012355a403",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "blog.maryland-paranormal.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://blog.maryland-paranormal.com/post/166179887228/ghost-expedition-baltimore-maryland-2017lexington",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/4b36acf604c96abc1d17d782",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -13623,9 +13759,9 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Ghost Expedition Baltimore Maryland 2017/Lexington... | MARYLAND PARANORMAL RESEARCH ®",
-    "url": "https://blog.maryland-paranormal.com/post/166179887228/ghost-expedition-baltimore-maryland-2017lexington",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_f90b0a6667eb",
+    "url": "https://private.invalid/f489fe7839b688a8dadfc6d8",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "cac01000ba2b7396",
@@ -13943,12 +14079,14 @@
     "bookmark_id": "a3277547a9927a16",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "ubarchives.omeka.net",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ubarchives.omeka.net/collections/show/15",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/db2f671cd46d47ec0811fa09",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/UBalt Archives",
+    "source_path": "private/208a629a0d744828",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -13961,8 +14099,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "League of Women Voters of Baltimore City Records · Baltimore Studies Archives",
-    "url": "https://ubarchives.omeka.net/collections/show/15",
+    "title": "PRIVATE_0fa596b264ac",
+    "url": "https://private.invalid/96d757c06400e6d9b5604b27",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -14439,12 +14577,14 @@
     "bookmark_id": "03748261ccc2a535",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "ubalt-my.sharepoint.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ubalt-my.sharepoint.com/personal/id67oe66_ubalt_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fid67oe66_ubalt_edu%2FDocuments%2FTCL+Alcatel+JShu.zip&parent=%2Fpersonal%2Fid67oe66_ubalt_edu%2FDocuments",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/2de025f0ce8edb6c40490c92",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/UBalt Archives",
+    "source_path": "private/208a629a0d744828",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -14459,8 +14599,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "OneDrive",
-    "url": "https://ubalt-my.sharepoint.com/personal/id67oe66_ubalt_edu/_layouts/15/onedrive.aspx?id=/personal/id67oe66_ubalt_edu/Documents/TCL+Alcatel+JShu.zip&parent=/personal/id67oe66_ubalt_edu/Documents",
+    "title": "PRIVATE_3abc26306789",
+    "url": "https://private.invalid/b00b4ee999928c8c35ec859c",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -14679,12 +14819,14 @@
     "bookmark_id": "23fc3781484829c3",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "archives.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://archives.ubalt.edu/cj/pdfs/R0028_CJ_S01_B08_F003.pdf",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/15c91fd832092e29498e4f2f",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Baltimore History",
+    "source_path": "private/cc221b0e5e5c57bf",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -14699,20 +14841,22 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "R0028_CJ_S01_B08_F003.pdf",
-    "url": "https://archives.ubalt.edu/cj/pdfs/R0028_CJ_S01_B08_F003.pdf",
+    "title": "PRIVATE_9b62834637b3",
+    "url": "https://private.invalid/ef81f64e927ac520872a5e04",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "42e67420b5aabe31",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "archives.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://archives.ubalt.edu/bsr/archival-resources/documents/readers-digest.pdf",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/f694f4e057dc3fe1468acbf7",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Baltimore History",
+    "source_path": "private/cc221b0e5e5c57bf",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -14727,20 +14871,22 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "readers-digest.pdf",
-    "url": "https://archives.ubalt.edu/bsr/archival-resources/documents/readers-digest.pdf",
+    "title": "PRIVATE_845ba6685abe",
+    "url": "https://private.invalid/8cad05e014232c0f79012ab7",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "a1af764444be5891",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "nmaahc.si.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://nmaahc.si.edu/explore/exhibitions/reconstruction/citizenship",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/788c02482a8f3df9c6069d67",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -14753,9 +14899,9 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Reconstructing Citizenship | National Museum of African American History and Culture",
-    "url": "https://nmaahc.si.edu/explore/exhibitions/reconstruction/citizenship",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_6ded7b33ee4f",
+    "url": "https://private.invalid/351886076839a65abd0cf998",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "41fafec2fd58f9b2",
@@ -14839,12 +14985,14 @@
     "bookmark_id": "ed70f967c5de3a00",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "archivesspace.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://archivesspace.ubalt.edu/repositories/2/archival_objects/106",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/28a3fd1e8f44001d2b8daae3",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Investigations",
+    "source_path": "private/8b285ec9fcd864b1",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -14859,8 +15007,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Subject Files | University of Baltimore Library Archives",
-    "url": "https://archivesspace.ubalt.edu/repositories/2/archival_objects/106",
+    "title": "PRIVATE_2610d5f9dfb0",
+    "url": "https://private.invalid/e963f2a6863bf728246348ca",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -14893,12 +15041,14 @@
     "bookmark_id": "b3cfc259b03eb3a4",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "www.baltimoresun.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.baltimoresun.com/2015/04/21/the-battles-of-lexington-city-paper-goes-deep-inside-and-under-baltimores-oldest-market",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/c87cba8b1a1f5eaebc94b5cc",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -14911,20 +15061,22 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "The Battles of Lexington: City Paper goes deep inside and under Baltimore’s oldest market – Baltimore Sun",
-    "url": "https://www.baltimoresun.com/2015/04/21/the-battles-of-lexington-city-paper-goes-deep-inside-and-under-baltimores-oldest-market/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_f907b43ce76e",
+    "url": "https://private.invalid/10fe1f833f3408cd173e706a",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "5430406bf0cf5684",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "baltimorecity.wd1.myworkdayjobs.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://baltimorecity.wd1.myworkdayjobs.com/External/job/Charles-L-Benton-Jr-Building/IT-Technician--Grant-Service-Specialist-III--NCS----Mayor-s-Office-of-Employment-Development_R0008153",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/c05ff9afab707cbf87e7ee02",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/jobs july",
+    "source_path": "private/f5cfb1278b40e196",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -14939,8 +15091,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "The City of Baltimore Job Opportunities",
-    "url": "https://baltimorecity.wd1.myworkdayjobs.com/External/job/Charles-L-Benton-Jr-Building/IT-Technician--Grant-Service-Specialist-III--NCS----Mayor-s-Office-of-Employment-Development_R0008153",
+    "title": "PRIVATE_2fa96664d6b8",
+    "url": "https://private.invalid/f651cdcfe1efa042008d7428",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -15105,12 +15257,14 @@
     "bookmark_id": "b08d06ad9ed49282",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "www.flickr.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.flickr.com/photos/ubarchives/albums",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/8eeaffb627ac7d00ab0f23e4",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/UBalt Archives",
+    "source_path": "private/208a629a0d744828",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -15123,8 +15277,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "University of Baltimore Special Collections & Archives’s albums | Flickr",
-    "url": "https://www.flickr.com/photos/ubarchives/albums/",
+    "title": "PRIVATE_7fbb88091e64",
+    "url": "https://private.invalid/1eeccce9bf58414eaa189a6d",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -15261,12 +15415,14 @@
     "bookmark_id": "4b2bead00cdc9f82",
     "classification_confidence": 88,
     "date_added": "2026-08-10",
-    "domain": "docs.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://docs.google.com/spreadsheets/d/13uYfmOvkGMv6ypKK8hjItFqHBZcdjskVmRHei_o1jVM/edit?gid=0",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/375561ff82b004da581697d0",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Portfolio Site",
+    "source_path": "private/414e2786e5d277f8",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -15279,9 +15435,9 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "BALTIMORE",
-    "title": "Where To Watch My Team in Baltimore - Google Sheets",
-    "url": "https://docs.google.com/spreadsheets/d/13uYfmOvkGMv6ypKK8hjItFqHBZcdjskVmRHei_o1jVM/edit?gid=0#gid=0",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_6b0057170e44",
+    "url": "https://private.invalid/a8a0945467f69599697f3403",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "3aed827cd37648a0",
@@ -15651,12 +15807,14 @@
     "bookmark_id": "eb5bc963167ef8dc",
     "classification_confidence": 96,
     "date_added": "2026-08-10",
-    "domain": "www.indeed.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.indeed.com/viewjob?jk=e2f05437052f4a1e&tk=1jesnvn9ujn3c83n&from=serp&vjs=3",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/8e792f2805955e00e02b0b92",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Research",
+    "source_path": "private/4423bef751543f4c",
     "status": "ACTIVE",
     "tag_confidence": {
       "BALTIMORE": 88,
@@ -15671,8 +15829,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "GENERAL",
-    "title": "Digital Navigator - Baltimore, MD 21201 - Indeed.com",
-    "url": "https://www.indeed.com/viewjob?jk=e2f05437052f4a1e&tk=1jesnvn9ujn3c83n&from=serp&vjs=3",
+    "title": "PRIVATE_990f95e0f03f",
+    "url": "https://private.invalid/ebffd532dcc7119bb4297c67",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -15755,12 +15913,14 @@
     "bookmark_id": "c8af1707d12ac6b4",
     "classification_confidence": 96,
     "date_added": "2026-08-10",
-    "domain": "ubalt.trustedpeer.org",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ubalt.trustedpeer.org/i_rise-to-the-challenge-application-2026/new",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/4fe6b8d5bfcf62ce80a29a0d",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Research",
+    "source_path": "private/4423bef751543f4c",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -15775,8 +15935,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "GENERAL",
-    "title": "Edit I_Rise-To-The-Challenge-Application-2026 Title Jan 13, 6:24AM",
-    "url": "https://ubalt.trustedpeer.org/i_rise-to-the-challenge-application-2026/new",
+    "title": "PRIVATE_e47a1633cf1e",
+    "url": "https://private.invalid/b258e90a97aad5ee35e6c573",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -16733,12 +16893,14 @@
     "bookmark_id": "95bbd8db347177ef",
     "classification_confidence": 96,
     "date_added": "2026-08-10",
-    "domain": "www.ubalt.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.ubalt.edu/events-calendar",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/8dbf4c28ad023fdec8f47845",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Research",
+    "source_path": "private/4423bef751543f4c",
     "status": "ACTIVE",
     "tag_confidence": {
       "COURSES": 84,
@@ -16753,8 +16915,8 @@
     "taxonomy_category": "RESEARCH",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "GENERAL",
-    "title": "Submit Your Idea: Rise to the Challenge Business Pitch Competition 2026 -",
-    "url": "https://www.ubalt.edu/events-calendar/#event-details/96648d53-83f8-41fc-822c-11d7efad6a22",
+    "title": "PRIVATE_e80f27a0aefe",
+    "url": "https://private.invalid/de969dab7880386274db1f80",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -17041,12 +17203,14 @@
     "bookmark_id": "e85ecb27c3a3d2a8",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "www.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.google.com/search?q=%22cast.db%22+%2B+receiver+metrics&sca_esv=53f9ef8ad52bf813&rlz=1C1GCEA_enUS1023US1023&biw=1475&bih=707&sxsrf=ANbL-n7hOIRUdDxEoKDbnEdkwjjlaF4eOQ%3A1773512630870&ei=tqe1aZ3PNOCg5NoPk5rGqAo&ved=0ahUKEwidgviygaCTAxVgEFkFHRONEaU4ChDh1QMIEw&uact=5&oq=%22cast.db%22+%2B+receiver+metrics&gs_lp=Egxnd3Mtd2l6LXNlcnAiHCJjYXN0LmRiIiArIHJlY2VpdmVyIG1ldHJpY3MyBRAhGKABMgUQIRigATIFECEYoAFIkyBQAFijH3ADeAGQAQGYAb8BoAGmDqoBBDIxLjG4AQPIAQD4AQGYAhigAqgNwgIEECMYJ8ICBBAAGB7CAgYQABgIGB7CAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQABjvBcICBxAhGKABGArCAgUQIRirApgDAJIHAjI0oAfFULIHAjIxuAeiDcIHBjAuMjMuMcgHJoAIAA&sclient=gws-wiz-serp",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/6da48fd212f66607a5451037",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "SEARCH_ENGINE": 54,
@@ -17059,9 +17223,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "\"cast.db\" + receiver metrics - Google Search",
-    "url": "https://www.google.com/search?q=%22cast.db%22+%2B+receiver+metrics&sca_esv=53f9ef8ad52bf813&rlz=1C1GCEA_enUS1023US1023&biw=1475&bih=707&sxsrf=ANbL-n7hOIRUdDxEoKDbnEdkwjjlaF4eOQ:1773512630870&ei=tqe1aZ3PNOCg5NoPk5rGqAo&ved=0ahUKEwidgviygaCTAxVgEFkFHRONEaU4ChDh1QMIEw&uact=5&oq=%22cast.db%22+%2B+receiver+metrics&gs_lp=Egxnd3Mtd2l6LXNlcnAiHCJjYXN0LmRiIiArIHJlY2VpdmVyIG1ldHJpY3MyBRAhGKABMgUQIRigATIFECEYoAFIkyBQAFijH3ADeAGQAQGYAb8BoAGmDqoBBDIxLjG4AQPIAQD4AQGYAhigAqgNwgIEECMYJ8ICBBAAGB7CAgYQABgIGB7CAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQABjvBcICBxAhGKABGArCAgUQIRirApgDAJIHAjI0oAfFULIHAjIxuAeiDcIHBjAuMjMuMcgHJoAIAA&sclient=gws-wiz-serp",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_0195b8362ce2",
+    "url": "https://private.invalid/330e20832a710ee85bdfe25d",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "0cf63cfb9b726804",
@@ -17091,12 +17255,14 @@
     "bookmark_id": "1b5dfa3f9472795b",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "www.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.google.com/search?q=%22receiver+metrics+id%22+%2B+google+chromecast&sca_esv=53f9ef8ad52bf813&rlz=1C1GCEA_enUS1023US1023&biw=1475&bih=707&sxsrf=ANbL-n7W_mVi17YdBFspt_2vNEPNNrOqZw%3A1773511575734&ei=l6O1ad64LNrk5NoPlYqzuAc&ved=0ahUKEwie4Oe7_Z-TAxVaMlkFHRXFDHcQ4dUDCBM&uact=5&oq=%22receiver+metrics+id%22+%2B+google+chromecast&gs_lp=Egxnd3Mtd2l6LXNlcnAiKSJyZWNlaXZlciBtZXRyaWNzIGlkIiArIGdvb2dsZSBjaHJvbWVjYXN0MggQIRigARjDBDIIECEYoAEYwwRIyglQJFgkcAB4AJABAJgBaqABrgGqAQMxLjG4AQPIAQD4AQGYAgGgAm2YAwDiAwUSATEgQIgGAZIHAzAuMaAHvwmyBwMwLjG4B23CBwMwLjHIBwGACAA&sclient=gws-wiz-serp",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/2d0425fc51e1e0d840e09ef3",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "SEARCH_ENGINE": 54,
@@ -17109,9 +17275,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "\"receiver metrics id\" + google chromecast - Google Search",
-    "url": "https://www.google.com/search?q=%22receiver+metrics+id%22+%2B+google+chromecast&sca_esv=53f9ef8ad52bf813&rlz=1C1GCEA_enUS1023US1023&biw=1475&bih=707&sxsrf=ANbL-n7W_mVi17YdBFspt_2vNEPNNrOqZw:1773511575734&ei=l6O1ad64LNrk5NoPlYqzuAc&ved=0ahUKEwie4Oe7_Z-TAxVaMlkFHRXFDHcQ4dUDCBM&uact=5&oq=%22receiver+metrics+id%22+%2B+google+chromecast&gs_lp=Egxnd3Mtd2l6LXNlcnAiKSJyZWNlaXZlciBtZXRyaWNzIGlkIiArIGdvb2dsZSBjaHJvbWVjYXN0MggQIRigARjDBDIIECEYoAEYwwRIyglQJFgkcAB4AJABAJgBaqABrgGqAQMxLjG4AQPIAQD4AQGYAgGgAm2YAwDiAwUSATEgQIgGAZIHAzAuMaAHvwmyBwMwLjG4B23CBwMwLjHIBwGACAA&sclient=gws-wiz-serp",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_959380d93e83",
+    "url": "https://private.invalid/863ed8f3fa246ef0b171088c",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "a3cd8a601d737c66",
@@ -17627,12 +17793,14 @@
     "bookmark_id": "817ea0948daca31b",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "oakland.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://oakland.edu/Assets/upload/docs/AIS/Syllabi/Tayler_Research_Proposal.pdf",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/2d9b86d08f903ad9a0901bb4",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/PHIL Paper",
+    "source_path": "private/bd3657889c081cd2",
     "status": "ACTIVE",
     "tag_confidence": {
       "SEARCH_ENGINE": 54,
@@ -17645,9 +17813,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "3. Research Paper Proposal with student samples - Tayler_Research_Proposal.pdf",
-    "url": "https://oakland.edu/Assets/upload/docs/AIS/Syllabi/Tayler_Research_Proposal.pdf",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_8c86e1c6f5b0",
+    "url": "https://private.invalid/65c63d841d390d4b9215f635",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "6b2edeb6d93215fb",
@@ -17777,12 +17945,14 @@
     "bookmark_id": "7048c04715ba4440",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "xdaforums.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://xdaforums.com/t/app-cast-receiver-app-for-android.2900726/page-6",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/532bdfb4f77167dc4f256adf",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -17793,9 +17963,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "[App] Cast Receiver app for Android | Page 6 | XDA Forums",
-    "url": "https://xdaforums.com/t/app-cast-receiver-app-for-android.2900726/page-6",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_232533216deb",
+    "url": "https://private.invalid/ff8fdf34f69f3d18ed07eff6",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "d76facef006009a4",
@@ -18187,12 +18357,14 @@
     "bookmark_id": "efdadefb75962482",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "developers.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://developers.google.com/cast/docs/android_tv_receiver/core_features",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/d14460175b7fcb1e43c9bcf2",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -18203,9 +18375,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Add Core Features to Your Android TV Receiver  |  Cast  |  Google for Developers",
-    "url": "https://developers.google.com/cast/docs/android_tv_receiver/core_features#java",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_e81e1de57650",
+    "url": "https://private.invalid/344bf1045bdb637654373fe3",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "24dbbebb9a802444",
@@ -18597,12 +18769,14 @@
     "bookmark_id": "6fc9ae2a843634cd",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "www.amazon.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.amazon.com/RK-ROYAL-KLUDGE-Ultra-Compact-Programmable/dp/B0731CJ4ZJ?qu=eyJxc2MiOiI2Ljg3IiwicXNhIjoiNi4xNyIsInFzcCI6IjUuNjEifQ%3D%3D",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/80312f1ca82e89d657777aff",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/Misc Sites",
+    "source_path": "private/bdef866372700338",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -18615,8 +18789,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Amazon.com: RK ROYAL KLUDGE RK61 Wireless 60% Triple Mode BT5.0/2.4G/USB-C Mechanical Keyboard, 61 Keys Bluetooth Mechanical Keyboard, Compact Gaming Keyboard with Software (Hot Swappable Blue Switch, White) : Video Games",
-    "url": "https://www.amazon.com/RK-ROYAL-KLUDGE-Ultra-Compact-Programmable/dp/B0731CJ4ZJ?qu=eyJxc2MiOiI2Ljg3IiwicXNhIjoiNi4xNyIsInFzcCI6IjUuNjEifQ%3D%3D",
+    "title": "PRIVATE_a4b12bb8c356",
+    "url": "https://private.invalid/50f616cf0b126ba2b06deb0e",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -18647,12 +18821,14 @@
     "bookmark_id": "715e8f1d92d43e68",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "aboutdfir.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://aboutdfir.com/toolsandartifacts/android",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/ee6a65d9a5d41d9a2c4d019d",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -18663,20 +18839,22 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Android - AboutDFIR - The Definitive Compendium Project",
-    "url": "https://aboutdfir.com/toolsandartifacts/android/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_6a8c27723ec6",
+    "url": "https://private.invalid/61cf1836044c41d918010efc",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "8cba8afbb06e1f4f",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "stackoverflow.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://stackoverflow.com/questions/22515205/cannot-run-chromecast-app",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/3417a5dbf116bc5d0062b3a0",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -18687,9 +18865,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "android - cannot run chromecast app - Stack Overflow",
-    "url": "https://stackoverflow.com/questions/22515205/cannot-run-chromecast-app",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_91f7e239bd59",
+    "url": "https://private.invalid/fb3e4526d0286d9550c4d5a6",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "053c0f781bdefb7b",
@@ -18719,12 +18897,14 @@
     "bookmark_id": "4fd45c563b238782",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "scribd.vdownloaders.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://scribd.vdownloaders.com/vdoc",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/95eb6d8f77226b6271459668",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -18735,20 +18915,22 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Android10 ImageCreation - PDF free",
-    "url": "https://scribd.vdownloaders.com/vdoc/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_0dee21012208",
+    "url": "https://private.invalid/95e098ff87bdf2526e228e17",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "764dbcbf9dcd3113",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "ilide.info",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://ilide.info/doc-viewer-v2",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/23d9262b97da6b7903bc0511",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -18759,9 +18941,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Android10 ImageCreation | ILIDE.INFO Platform PDF Viewer",
-    "url": "https://ilide.info/doc-viewer-v2",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_09aec047b6cb",
+    "url": "https://private.invalid/0af6abdf3550ffd92d89c5f9",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "d359c498858a9232",
@@ -19859,12 +20041,14 @@
     "bookmark_id": "02d10bfaf08a2951",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "hwpi.harvard.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://hwpi.harvard.edu/files/hwp/files/bg_writing_philosophy.pdf",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/6dc331cde17fdc8ca9178d03",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/PHIL Paper",
+    "source_path": "private/bd3657889c081cd2",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -19875,9 +20059,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "bg_writing_philosophy.pdf",
-    "url": "https://hwpi.harvard.edu/files/hwp/files/bg_writing_philosophy.pdf",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_202341cabdd1",
+    "url": "https://private.invalid/63608b9962104334bbf7b61e",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "e3f7f8989226ae46",
@@ -19979,12 +20163,14 @@
     "bookmark_id": "1bdfca5abfd8d6d4",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "support.microsoft.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://support.microsoft.com/en-au/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/bb919d74df47fc4b8d45d4ab",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -19999,8 +20185,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Bing Advanced Search Operators",
-    "url": "https://support.microsoft.com/en-au/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a",
+    "title": "PRIVATE_53462e56595b",
+    "url": "https://private.invalid/aba02da40654687f68fbd90c",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -20403,12 +20589,14 @@
     "bookmark_id": "22e4135a40043e06",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "cs.android.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://cs.android.com/android/platform/superproject/+/android-10.0.0_r22:build/make/buildspec.mk.default",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/a15e52f7677a0599e83e3d94",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "SEARCH_ENGINE": 54,
@@ -20421,9 +20609,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "buildspec.mk.default - Android Code Search",
-    "url": "https://cs.android.com/android/platform/superproject/+/android-10.0.0_r22:build/make/buildspec.mk.default",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_f2d5d40509a0",
+    "url": "https://private.invalid/2d2c857078d7b81077894510",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "8c1232ff277379d8",
@@ -20551,12 +20739,14 @@
     "bookmark_id": "11715f9dfe766e36",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "bankone.bandcamp.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://bankone.bandcamp.com/album/can-you-keep-a-groove",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/cdfb253fcafa0344adc8ddbd",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Cool Sites 2026",
+    "source_path": "private/4151e0a5f8ff6823",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -20569,8 +20759,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Can You Keep a Groove? | Yaf Still",
-    "url": "https://bankone.bandcamp.com/album/can-you-keep-a-groove",
+    "title": "PRIVATE_2151a8fe691f",
+    "url": "https://private.invalid/de348c36f282967364b6e9fb",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -20775,12 +20965,14 @@
     "bookmark_id": "b8fe495976f8d339",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "developers.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://developers.google.com/android/reference/com/google/android/gms/cast/CastMediaControlIntent",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/90a286c5a33fa66d2743aa6e",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -20791,20 +20983,22 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "CastMediaControlIntent  |  Google Play services  |  Google for Developers",
-    "url": "https://developers.google.com/android/reference/com/google/android/gms/cast/CastMediaControlIntent#DEFAULT_MEDIA_RECEIVER_APPLICATION_ID",
-    "visibility_flag": "REVIEW"
+    "title": "PRIVATE_5ba342438ca6",
+    "url": "https://private.invalid/966b9baabe783e0c46fa82f2",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "cb1ee6b418ea20dd",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "developers.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://developers.google.com/android/reference/com/google/android/gms/cast/framework/CastOptions",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/da6f180c71721cba55331b71",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -20815,20 +21009,22 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "CastOptions  |  Google Play services  |  Google for Developers",
-    "url": "https://developers.google.com/android/reference/com/google/android/gms/cast/framework/CastOptions#getReceiverApplicationId()",
-    "visibility_flag": "REVIEW"
+    "title": "PRIVATE_1e1a0641a7f3",
+    "url": "https://private.invalid/8ebd3568b25b54dc313d9dc5",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "33187c329db8737b",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "developers.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://developers.google.com/android/reference/com/google/android/gms/cast/tv/CastReceiverContext",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/4bcc3d424aa546ab92ae903a",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -20839,20 +21035,22 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "CastReceiverContext  |  Google Play services  |  Google for Developers",
-    "url": "https://developers.google.com/android/reference/com/google/android/gms/cast/tv/CastReceiverContext",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_46a5f1ca7770",
+    "url": "https://private.invalid/3f6a841070af6da56385d557",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "b3befd087017eb3c",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "developers.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://developers.google.com/android/reference/com/google/android/gms/cast/tv/CastReceiverOptions",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/a9d73efe0fc1b377ec485272",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -20863,20 +21061,22 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "CastReceiverOptions  |  Google Play services  |  Google for Developers",
-    "url": "https://developers.google.com/android/reference/com/google/android/gms/cast/tv/CastReceiverOptions",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_735123de33c9",
+    "url": "https://private.invalid/5972399e93ebb44e8c9ca790",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "62d7e89a05d0ceab",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "github.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://github.com/citizenlab/chat-censorship/blob/master/wechat/709crackdown/all-keywords.csv",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/81dea11a325093ccdafb9474",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "GITHUB": 52,
@@ -20891,20 +21091,22 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Censored words in China - citizenlab (GitHub)",
-    "url": "https://github.com/citizenlab/chat-censorship/blob/master/wechat/709crackdown/all-keywords.csv",
+    "title": "PRIVATE_59c29ed1200c",
+    "url": "https://private.invalid/3a8e5e3977685e5c6344c1d7",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "e9916cf7c31bddd3",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "citizenlab.ca",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://citizenlab.ca/2014/12/repository-censored-sensitive-chinese-keywords-13-lists-9054-terms",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/c1f6a5f5254df784de335a10",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -20917,8 +21119,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Censored words in China - The Citizen Lab",
-    "url": "https://citizenlab.ca/2014/12/repository-censored-sensitive-chinese-keywords-13-lists-9054-terms/",
+    "title": "PRIVATE_f3dd0a359119",
+    "url": "https://private.invalid/f7471d4537ed1059d4b1b5ce",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -20949,12 +21151,14 @@
     "bookmark_id": "8b60506d32bd193b",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "jzcg.pbc.gov.cn",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://jzcg.pbc.gov.cn/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/b4c94d490ead239a719038c4",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -20967,8 +21171,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Central Bank Procurement",
-    "url": "https://jzcg.pbc.gov.cn/",
+    "title": "PRIVATE_e06bcb79a262",
+    "url": "https://private.invalid/8d50e3c9b8d0d38cfe49a397",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -22485,25 +22689,29 @@
     "bookmark_id": "0eaf72d98440b88d",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "app.addy.io",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://app.addy.io/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/98c99c647573102fefe82e3e",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/E-mail",
+    "source_path": "private/5d86c13fc2eaf661",
     "status": "ACTIVE",
     "tag_confidence": {
+      "PRIVATE_PERSONAL": 95,
       "UNSORTED": 50
     },
     "tags": [
+      "PRIVATE_PERSONAL",
       "UNSORTED"
     ],
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Dashboard - addy.io",
-    "url": "https://app.addy.io/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_0debf6b9ff3d",
+    "url": "https://private.invalid/148fdf3738e7a1d32f9c3d01",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "a7bbfa11069341a5",
@@ -22677,12 +22885,14 @@
     "bookmark_id": "2dd5b0d3977eb74c",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "segumarc.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://segumarc.com/2023/12/15/decoding-android-google-maps-gmm_myplaces-db",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/7e8f7cbb1e59e6f1b5134fdb",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -22693,9 +22903,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Decoding Android Google Maps : gmm_myplaces.db - Segumarc Blog",
-    "url": "https://segumarc.com/2023/12/15/decoding-android-google-maps-gmm_myplaces-db/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_e2990f7fbf64",
+    "url": "https://private.invalid/cb1fee17f0f9246fa469df7e",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "0f836365575d4855",
@@ -24073,12 +24283,14 @@
     "bookmark_id": "e8fd5ea450adea93",
     "classification_confidence": 55,
     "date_added": "2026-08-10",
-    "domain": "tools.epieos.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://tools.epieos.com/google-account.php",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/74ed204220ecb5c8816b176e",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -24091,8 +24303,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Epieos Tools (Gmail Identifier)",
-    "url": "https://tools.epieos.com/google-account.php",
+    "title": "PRIVATE_7dd291b697d3",
+    "url": "https://private.invalid/a10ddb5acc8a3160776c29df",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -24787,12 +24999,14 @@
     "bookmark_id": "833a2d1fa2159284",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "thebinaryhick.blog",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://thebinaryhick.blog/2023/10/17/finding-phones-with-google-maps-part-1-android",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/419190d58378656241e82da2",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -24803,9 +25017,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Finding Phones With Google Maps Part 1 (Android) – The Binary Hick",
-    "url": "https://thebinaryhick.blog/2023/10/17/finding-phones-with-google-maps-part-1-android/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_3895629a9ce8",
+    "url": "https://private.invalid/9c04bc512f8152be1b6663bf",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "d6919a7bd384efd5",
@@ -25517,12 +25731,14 @@
     "bookmark_id": "88815482694bc38e",
     "classification_confidence": 55,
     "date_added": "2026-08-10",
-    "domain": "pentestmonkey.net",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://pentestmonkey.net/tools/gateway-finder",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/68913ad17eda9ebbac518e9c",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Pentesting & Exploitations",
+    "source_path": "private/49e6d8ee0b8381fb",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -25535,8 +25751,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "gateway-finder | pentestmonkey",
-    "url": "https://pentestmonkey.net/tools/gateway-finder",
+    "title": "PRIVATE_2332d825f01f",
+    "url": "https://private.invalid/db1d8f19c624793517e25a4c",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -25963,12 +26179,14 @@
     "bookmark_id": "5d46815a891fcd96",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "github.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://github.com/megadose/holehe",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/1e76b987cf7739c4bafc334b",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/Github Repos",
+    "source_path": "private/b66d9ccf92c67701",
     "status": "ACTIVE",
     "tag_confidence": {
       "GITHUB": 52,
@@ -25983,8 +26201,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "GitHub - megadose/holehe: holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-    "url": "https://github.com/megadose/holehe",
+    "title": "PRIVATE_6c8f0a6e97ce",
+    "url": "https://private.invalid/264b6ac1bf56a62bb59d496b",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -26263,12 +26481,14 @@
     "bookmark_id": "3ec00b939d4d81b1",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "mail.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://mail.google.com/mail/u/0",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/9efab89c0f8628d24e275604",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/E-mail",
+    "source_path": "private/5d86c13fc2eaf661",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -26281,8 +26501,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Gmail",
-    "url": "https://mail.google.com/mail/u/0/#inbox",
+    "title": "PRIVATE_854b5bd91a22",
+    "url": "https://private.invalid/803a1ab41b3994fb6204b28c",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -27631,12 +27851,14 @@
     "bookmark_id": "d85d02da5cbc688c",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "automata88.medium.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://automata88.medium.com/how-to-write-math-subscripts-on-medium-3128bfec2bb3",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/25b51886cbb76c777b815033",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/PHIL Paper",
+    "source_path": "private/bd3657889c081cd2",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -27647,9 +27869,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "How to Write Math Subscripts on Medium | by Aerin Kim | Medium",
-    "url": "https://automata88.medium.com/how-to-write-math-subscripts-on-medium-3128bfec2bb3",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_cf4ea5ae9b34",
+    "url": "https://private.invalid/5fc718c3536fd59f142b913d",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "daba6df935d5a6ce",
@@ -29515,12 +29737,14 @@
     "bookmark_id": "cdb312dce6723611",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "mega.nz",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://mega.nz/fm/1MlWGITI",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/6420b7a64dbb421910f52f94",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/pins",
+    "source_path": "private/f68be9066b0c4ef5",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -29531,9 +29755,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "MEGA",
-    "url": "https://mega.nz/fm/1MlWGITI",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_ad02551440e7",
+    "url": "https://private.invalid/821d60da3f729e4061e87918",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "f37a0fd94516c267",
@@ -30073,12 +30297,14 @@
     "bookmark_id": "5cd143212ed36fd4",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "xdaforums.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://xdaforums.com/t/moto-g-4g-peregrine-weird-stuff-happening.4459651",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/962c9726a44ea9c3bd9973bd",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI 330-700 PXL 3",
+    "source_path": "private/5253361ab57cfead",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -30089,20 +30315,22 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Moto G 4G (peregrine) | Weird stuff happening. | XDA Forums",
-    "url": "https://xdaforums.com/t/moto-g-4g-peregrine-weird-stuff-happening.4459651/",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_e3cbab31ef4e",
+    "url": "https://private.invalid/e66c683fe731ad80ec535c1e",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "f5b16c10b832c7d6",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "www.lexilogos.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.lexilogos.com/english/index.htm",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/5fc4b11e2888a7248f33edbb",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -30115,20 +30343,22 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Multi Language Keyboard",
-    "url": "https://www.lexilogos.com/english/index.htm",
+    "title": "PRIVATE_ab4d2a3637d0",
+    "url": "https://private.invalid/af18dcef857fd85a981ef91c",
     "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "f9e71a2b9a294d28",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "www.social-searcher.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.social-searcher.com/google-social-search?q=my+brand&fb=on&tw=on&gp=on&in=on&li=on&pi=on",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/0da074aa3db8dc74edfefaa1",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -30143,8 +30373,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Multi Platform Keyword Search",
-    "url": "https://www.social-searcher.com/google-social-search/?q=my+brand&fb=on&tw=on&gp=on&in=on&li=on&pi=on",
+    "title": "PRIVATE_dd1b577c81e5",
+    "url": "https://private.invalid/47bdc80f7979a5d45467a30e",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -30443,12 +30673,14 @@
     "bookmark_id": "0eae0d035b94f202",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "app.netdata.cloud",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://app.netdata.cloud/spaces/frinjee-space/rooms/all-nodes/home",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/2a507ea77c9723f4b507e3e2",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -30459,8 +30691,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Netdata Console",
-    "url": "https://app.netdata.cloud/spaces/frinjee-space/rooms/all-nodes/home#metrics_correlation=false&after=1737491990000&before=1737492890000&utc=America%2FNew_York&offset=-5&timezoneName=Eastern%20Time%20(US%20&selectedIntegrationCategory=data-collection.networking-stack-and-network-interfaces&force_play=false&b60e00a4-f0ae-47dd-95ba-71da6f650117--chartName-val=menu_System-0_Network-1_submenu_System-0_Network-1_Total_Traffic-2&b60e00a4-f0ae-47dd-95ba-71da6f650117-logs-selectedFn-arr=windows-events%3A%3A%3A0&b60e00a4-f0ae-47dd-95ba-71da6f650117-windows-events%3A%3A%3A0-selectedNodeIds-arr=4955722e-2071-4ed3-92af-19380069b658&4955722e-2071-4ed3-92af-19380069b658-windows-events%3A%3A%3A0Filters-__logs_sources-arr=Application%2CMicrosoft-Client-Licensing-Platform%2FAdmin%2CMicrosoft-Windows-AAD%2FOperational%2CMicrosoft-Windows-AppModel-Runtime%2FAdmin%2CMicrosoft-Windows-AppReadiness%2FAdmin%2CMicrosoft-Windows-AppReadiness%2FOperational%2CMicrosoft-Windows-AppXDeployment-Server%2FOperational%2CMicrosoft-Windows-AppXDeployment%2FOperational%2CMicrosoft-Windows-AppXDeploymentServer%2FOperational%2CMicrosoft-Windows-Application-Experience%2FProgram-Compatibility-Assistant%2CMicrosoft-Windows-Application-Experience%2FProgram-Telemetry%2CMicrosoft-Windows-AppxPackaging%2FOperational%2CMicrosoft-Windows-Audio%2FOperational%2CMicrosoft-Windows-Audio%2FPlaybackManager%2CMicrosoft-Windows-BackgroundTaskInfrastructure%2FOperational%2CMicrosoft-Windows-Biometrics%2FOperational%2CMicrosoft-Windows-BitLocker%2FBitLocker%20Management%2CMicrosoft-Windows-Bits-Client%2FOperational%2CMicrosoft-Windows-CertificateServicesClient-Lifecycle-User%2FOperational%2CMicrosoft-Windows-CloudRestoreLauncher%2FOperational%2CMicrosoft-Windows-CloudStore%2FInitialization%2CMicrosoft-Windows-CloudStore%2FOperational%2CMicrosoft-Windows-CodeIntegrity%2FOperational%2CMicrosoft-Windows-Containers-BindFlt%2FOperational%2CMicrosoft-Windows-Containers-Wcifs%2FOperational%2CMicrosoft-Windows-CoreSystem-SmsRouter-Events%2FOperational%2CMicrosoft-Windows-Crypto-DPAPI%2FOperational%2CMicrosoft-Windows-Crypto-NCrypt%2FOperational%2CMicrosoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider%2FAdmin%2CMicrosoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider%2FOperational%2CMicrosoft-Windows-DeviceSetupManager%2FAdmin%2CMicrosoft-Windows-DeviceSetupManager%2FOperational%2CMicrosoft-Windows-Dhcp-Client%2FAdmin%2CMicrosoft-Windows-Dhcpv6-Client%2FAdmin%2CMicrosoft-Windows-Diagnosis-DPS%2FOperational%2CMicrosoft-Windows-Diagnosis-PCW%2FOperational%2CMicrosoft-Windows-Diagnosis-Scheduled%2FOperational%2CMicrosoft-Windows-Diagnosis-Scripted%2FAdmin%2CMicrosoft-Windows-Diagnosis-Scripted%2FOperational%2CMicrosoft-Windows-Diagnosis-ScriptedDiagnosticsProvider%2FOperational%2CMicrosoft-Windows-Diagnostics-Networking%2FOperational%2CMicrosoft-Windows-Diagnostics-Performance%2FOperational%2CMicrosoft-Windows-DxgKrnl-Admin%2CMicrosoft-Windows-DxgKrnl-Operational%2CMicrosoft-Windows-Fault-Tolerant-Heap%2FOperational%2CMicrosoft-Windows-GroupPolicy%2FOperational%2CMicrosoft-Windows-HelloForBusiness%2FOperational%2CMicrosoft-Windows-HomeGroup%20Control%20Panel%2FOperational%2CMicrosoft-Windows-Host-Network-Service-Admin%2CMicrosoft-Windows-Host-Network-Service-Operational%2CMicrosoft-Windows-Hyper-V-Compute-Admin%2CMicrosoft-Windows-Hyper-V-Compute-Operational%2CMicrosoft-Windows-Hyper-V-Hypervisor-Admin%2CMicrosoft-Windows-Hyper-V-Hypervisor-Operational%2CMicrosoft-Windows-Hyper-V-StorageVSP-Admin%2CMicrosoft-Windows-Hyper-V-VmSwitch-Operational%2CMicrosoft-Windows-Hyper-V-Worker-Admin%2CMicrosoft-Windows-Kernel-Boot%2FOperational%2CMicrosoft-Windows-Kernel-EventTracing%2FAdmin%2CMicrosoft-Windows-Kernel-LiveDump%2FOperational%2CMicrosoft-Windows-Kernel-PnP%2FConfiguration%2CMicrosoft-Windows-Kernel-PnP%2FDriver%20Watchdog%2CMicrosoft-Windows-Kernel-ShimEngine%2FOperational%2CMicrosoft-Windows-Kernel-WHEA%2FErrors%2CMicrosoft-Windows-Kernel-WHEA%2FOperational%2CMicrosoft-Windows-Known%20Folders%20API%20Service%2CMicrosoft-Windows-LanguagePackSetup%2FOperational%2CMicrosoft-Windows-LiveId%2FOperational%2CMicrosoft-Windows-MUI%2FOperational%2CMicrosoft-Windows-NCSI%2FOperational%2CMicrosoft-Windows-NcdAutoSetup%2FOperational%2CMicrosoft-Windows-NetworkProfile%2FOperational%2CMicrosoft-Windows-NlaSvc%2FOperational%2CMicrosoft-Windows-Ntfs%2FOperational%2CMicrosoft-Windows-Ntfs%2FWHC%2CMicrosoft-Windows-Partition%2FDiagnostic%2CMicrosoft-Windows-PowerShell%2FOperational%2CMicrosoft-Windows-PrintService%2FAdmin%2CMicrosoft-Windows-Privacy-Auditing%2FOperational%2CMicrosoft-Windows-Provisioning-Diagnostics-Provider%2FAdmin%2CMicrosoft-Windows-PushNotification-Platform%2FOperational%2CMicrosoft-Windows-ReadyBoost%2FOperational%2CMicrosoft-Windows-Resource-Exhaustion-Detector%2FOperational%2CMicrosoft-Windows-Resource-Exhaustion-Resolver%2FOperational%2CMicrosoft-Windows-SMBClient%2FOperational%2CMicrosoft-Windows-SMBServer%2FOperational%2CMicrosoft-Windows-Security-LessPrivilegedAppContainer%2FOperational%2CMicrosoft-Windows-Security-Mitigations%2FKernelMode%2CMicrosoft-Windows-Security-SPP-UX-Notifications%2FActionCenter%2CMicrosoft-Windows-SettingSync%2FDebug%2CMicrosoft-Windows-Shell-Core%2FAppDefaults%2CMicrosoft-Windows-Shell-Core%2FOperational%2CMicrosoft-Windows-ShellCommon-StartLayoutPopulation%2FOperational%2CMicrosoft-Windows-SmbClient%2FAudit%2CMicrosoft-Windows-SmbClient%2FConnectivity%2CMicrosoft-Windows-SmbClient%2FSecurity%2CMicrosoft-Windows-StateRepository%2FOperational%2CMicrosoft-Windows-Storage-ClassPnP%2FOperational%2CMicrosoft-Windows-Storage-Storport%2FHealth%2CMicrosoft-Windows-Storage-Storport%2FOperational%2CMicrosoft-Windows-StorageSettings%2FDiagnostic%2CMicrosoft-Windows-StorageSpaces-Driver%2FOperational%2CMicrosoft-Windows-Store%2FOperational%2CMicrosoft-Windows-Storsvc%2FDiagnostic%2CMicrosoft-Windows-TWinUI%2FOperational%2CMicrosoft-Windows-TZSync%2FOperational%2CMicrosoft-Windows-TaskScheduler%2FMaintenance%2CMicrosoft-Windows-TerminalServices-LocalSessionManager%2FOperational%2CMicrosoft-Windows-TerminalServices-RDPClient%2FOperational%2CMicrosoft-Windows-Time-Service%2FOperational%2CMicrosoft-Windows-UAC-FileVirtualization%2FOperational%2CMicrosoft-Windows-UAC%2FOperational%2CMicrosoft-Windows-UniversalTelemetryClient%2FOperational%2CMicrosoft-Windows-User%20Device%20Registration%2FAdmin%2CMicrosoft-Windows-User%20Profile%20Service%2FOperational%2CMicrosoft-Windows-UserPnp%2FDeviceInstall%2CMicrosoft-Windows-UserSettingsBackup-Orchestrator%2FOperational%2CMicrosoft-Windows-VHDMP-Operational%2CMicrosoft-Windows-VolumeSnapshot-Driver%2FOperational%2CMicrosoft-Windows-WER-PayloadHealth%2FOperational%2CMicrosoft-Windows-WFP%2FOperational%2CMicrosoft-Windows-WMI-Activity%2FOperational%2CMicrosoft-Windows-WPD-MTPClassDriver%2FOperational%2CMicrosoft-Windows-Wcmsvc%2FOperational%2CMicrosoft-Windows-WebAuthN%2FOperational%2CMicrosoft-Windows-WinINet-Config%2FProxyConfigChanged%2CMicrosoft-Windows-WinRM%2FOperational%2CMicrosoft-Windows-Windows%20Defender%2FOperational%2CMicrosoft-Windows-Windows%20Firewall%20With%20Advanced%20Security%2FFirewall%2CMicrosoft-Windows-Windows%20Firewall%20With%20Advanced%20Security%2FFirewallDiagnostics%2CMicrosoft-Windows-WindowsSystemAssessmentTool%2FOperational%2CMicrosoft-Windows-WindowsUpdateClient%2FOperational%2CMicrosoft-Windows-Winlogon%2FOperational%2CNetdata%2FCollectors%2CNetdata%2FDaemon%2CSecurity%2CSetup%2CSystem%2CWindows%20PowerShell&4955722e-2071-4ed3-92af-19380069b658-windows-events%3A%3A%3A0-selectedFacets-arr=Computer%2CChannel%2CProvider%2CUserAccount%2CUserDomain%2CUserSID%2CEventID%2CEventsAPI%2CLevel%2CTask%2COpcode%2CKeywords&b60e00a4-f0ae-47dd-95ba-71da6f650117-nodesView-nodeIdToGo-val=menu_Live&b60e00a4-f0ae-47dd-95ba-71da6f650117-fn-selectedFn-arr=processes%3A%3A%3A0&b60e00a4-f0ae-47dd-95ba-71da6f650117-processes%3A%3A%3A0-selectedNodeIds-arr=4955722e-2071-4ed3-92af-19380069b658&b60e00a4-f0ae-47dd-95ba-71da6f650117-anomalies-chartName-val=menu_Anomaly_advisor_submenu_Anomaly_advisor_anomaly_detection_dimensions&b60e00a4-f0ae-47dd-95ba-71da6f650117-feed-selectedFn-arr=feed&b60e00a4-f0ae-47dd-95ba-71da6f650117-dyncfg-selectedNodeIds-arr=4955722e-2071-4ed3-92af-19380069b658",
+    "title": "PRIVATE_f9ee395a6d27",
+    "url": "https://private.invalid/679d512124922d4750ec8bdc",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -30587,12 +30819,14 @@
     "bookmark_id": "2d69c8b5befb4f77",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "www.proff.no",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.proff.no/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/69001bc83a71ca5f8dc5a71a",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -30605,8 +30839,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "NORWAY - Proff - Business site, find info about companies, key persons, accounting info etc:",
-    "url": "https://www.proff.no/",
+    "title": "PRIVATE_63dc7088ff20",
+    "url": "https://private.invalid/f24c811a1dac3984bf16a3fe",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -31759,12 +31993,14 @@
     "bookmark_id": "1874010005987cb2",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "philosophy.berkeley.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://philosophy.berkeley.edu/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhPSGh1YURZMU0yUnpZbVo2Y1dZNGRYZzNablJpWlhjNWQySTFjZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWtKTVF6SXdNVEZCWW5OMGNtRmpkSE11Y0dSbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZENURU15TURFeFFXSnpkSEpoWTNSekxuQmtaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRkdGd2NHeHBZMkYwYVc5dUwzQmtaZ1k3QmxRNkVYTmxjblpwWTJWZmJtRnRaVG9LYkc5allXdz0iLCJleHAiOiIyMDI1LTEwLTEwVDE4OjIzOjE1Ljg3MVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--29778de2f962161063a985090d1db30b35e6ac26/BLC2011Abstracts.pdf",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/aee6ef64703a3956aa585ed5",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/PHIL Paper",
+    "source_path": "private/bd3657889c081cd2",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -31775,9 +32011,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "PaperAbstracts.docx - BLC2011Abstracts.pdf",
-    "url": "https://philosophy.berkeley.edu/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhPSGh1YURZMU0yUnpZbVo2Y1dZNGRYZzNablJpWlhjNWQySTFjZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpVTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWtKTVF6SXdNVEZCWW5OMGNtRmpkSE11Y0dSbUlqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZENURU15TURFeFFXSnpkSEpoWTNSekxuQmtaZ1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRkdGd2NHeHBZMkYwYVc5dUwzQmtaZ1k3QmxRNkVYTmxjblpwWTJWZmJtRnRaVG9LYkc5allXdz0iLCJleHAiOiIyMDI1LTEwLTEwVDE4OjIzOjE1Ljg3MVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--29778de2f962161063a985090d1db30b35e6ac26/BLC2011Abstracts.pdf",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_560fe3feb49d",
+    "url": "https://private.invalid/4c014ef35417d7b8e0a172bc",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "b79b724bc7c726c3",
@@ -32159,12 +32395,14 @@
     "bookmark_id": "00372a08551c72c9",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "www.simonknutsson.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.simonknutsson.com/phd-philosophy-research-proposal",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/65f41594d290c56504387672",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/PHIL Paper",
+    "source_path": "private/bd3657889c081cd2",
     "status": "ACTIVE",
     "tag_confidence": {
       "SEARCH_ENGINE": 54,
@@ -32177,9 +32415,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "PhD Philosophy Research Proposal (Admitted to LSE and Stockholm) – Simon Knutsson",
-    "url": "https://www.simonknutsson.com/phd-philosophy-research-proposal",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_0baae3efb198",
+    "url": "https://private.invalid/59287ab6af658e971a00086d",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "8bd6ee47880883f7",
@@ -32355,12 +32593,14 @@
     "bookmark_id": "3f84f499f324f91e",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "jamestown.org",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://jamestown.org/program/managing-the-plas-military-diplomacy-key-institutions-and-personnel",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/e3b080cc6820a7c7f8e79c1f",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Imported",
+    "source_path": "private/f8b9b479031ff422",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -32373,8 +32613,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "PLA’s Military Diplomacy: Key Institutions and Personnel - Jamestown",
-    "url": "https://jamestown.org/program/managing-the-plas-military-diplomacy-key-institutions-and-personnel/",
+    "title": "PRIVATE_4b3ddb59fd0e",
+    "url": "https://private.invalid/85df899a8422eda825f532f4",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -32987,12 +33227,14 @@
     "bookmark_id": "40887e6e3dba7a9b",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "cipher387.github.io",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/3bc68d23786677f8ffe91aa3",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Misc Links",
+    "source_path": "private/f5cfa0096794b092",
     "status": "ACTIVE",
     "tag_confidence": {
       "GITHUB": 52,
@@ -33009,8 +33251,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Quick hashtags search",
-    "url": "https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/",
+    "title": "PRIVATE_baba098bdf71",
+    "url": "https://private.invalid/dfe06f52109b5e547fca3b1e",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -33525,12 +33767,14 @@
     "bookmark_id": "bf2d0fcbfd2e40d0",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "www.sas.rochester.edu",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://www.sas.rochester.edu/phl/fitzpatrick/sample.htm",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/a8366a4041d69b36cf9b623e",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/PHIL Paper",
+    "source_path": "private/bd3657889c081cd2",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -33541,9 +33785,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "SAMPLE SHORT PHILOSOPHY PAPER: For Illustrative purposes only",
-    "url": "https://www.sas.rochester.edu/phl/fitzpatrick/sample.htm",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_4cfababc3122",
+    "url": "https://private.invalid/9262c6d843207fd340b9787a",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "7a73e581847f913f",
@@ -33805,12 +34049,14 @@
     "bookmark_id": "e795eee71a91dbff",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "developers.google.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://developers.google.com/s/results/android?q=gms_cast_mrp",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/bfba6aaa3628169598a905cb",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/CYFI-330_700 References",
+    "source_path": "private/8b5c3649348fd560",
     "status": "ACTIVE",
     "tag_confidence": {
       "SEARCH_ENGINE": 54,
@@ -33823,9 +34069,9 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Search results for \"gms_cast_mrp\"  |  Google for Developers",
-    "url": "https://developers.google.com/s/results/android?q=gms_cast_mrp",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_fdf7f222a7aa",
+    "url": "https://private.invalid/8e16a8a4d52c239d4b90436e",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "9e5ff7dea72f3a1e",
@@ -34833,12 +35079,14 @@
     "bookmark_id": "be28f19c1b610634",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "steamcommunity.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://steamcommunity.com/dev/apikey",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/7db77227e28079568d6f6cff",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Sites",
+    "source_path": "private/663d00aeb6e2bd74",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -34851,8 +35099,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Steam Community :: Steam Web API Key",
-    "url": "https://steamcommunity.com/dev/apikey",
+    "title": "PRIVATE_8dd8c26137b8",
+    "url": "https://private.invalid/c0fc78e291473b8ec68b8487",
     "visibility_flag": "PRIVATE"
   },
   {
@@ -36501,12 +36749,14 @@
     "bookmark_id": "8dfbdb071c8192a8",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "64.media.tumblr.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://64.media.tumblr.com/136671d8f6854b91f24046a67c1da83c/tumblr_ownzk8sf2r1r5nb18o9_r1_1280.png",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/abd81881e3052ce79308e1e6",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/HIST-205",
+    "source_path": "private/af11c349baeb8561",
     "status": "ACTIVE",
     "tag_confidence": {
       "UNSORTED": 50
@@ -36517,33 +36767,37 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "tumblr_ownzk8sf2r1r5nb18o9_r1_1280.png (1002×554)",
-    "url": "https://64.media.tumblr.com/136671d8f6854b91f24046a67c1da83c/tumblr_ownzk8sf2r1r5nb18o9_r1_1280.png",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_d8f83c43767f",
+    "url": "https://private.invalid/0e7c14ad8fb1d66e8fa80331",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "44548ae8c6280d4d",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "app.tuta.com",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://app.tuta.com/login?requestedPath=%2Fmail%2FOsAWqyT-1s-9%3FnoAutoLogin%3Dtrue",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/5bca623b654dccf886efda8a",
     "source_browser": "chrome",
-    "source_path": "Bookmarks/Mobile bookmarks",
+    "source_path": "private/75d16050d4a94607",
     "status": "ACTIVE",
     "tag_confidence": {
+      "PRIVATE_PERSONAL": 95,
       "UNSORTED": 50
     },
     "tags": [
+      "PRIVATE_PERSONAL",
       "UNSORTED"
     ],
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Tuta Mail: Login & Sign up for free",
-    "url": "https://app.tuta.com/login?requestedPath=/mail/OsAWqyT-1s-9?noAutoLogin%3Dtrue",
-    "visibility_flag": "PUBLIC"
+    "title": "PRIVATE_ae44f58af9d1",
+    "url": "https://private.invalid/08a5575c0b31786cd6c26ea0",
+    "visibility_flag": "PRIVATE"
   },
   {
     "bookmark_id": "744bddad5adb3438",
@@ -36623,12 +36877,14 @@
     "bookmark_id": "7e614f438709ce5e",
     "classification_confidence": 50,
     "date_added": "2026-08-10",
-    "domain": "math.typeit.org",
+    "domain": "private.invalid",
     "last_seen": "2026-08-10",
-    "metadata": {},
-    "normalized_url": "https://math.typeit.org/",
+    "metadata": {
+      "obfuscated": true
+    },
+    "normalized_url": "https://private.invalid/e513dbfd06d459b96d530c79",
     "source_browser": "firefox",
-    "source_path": "Bookmarks Menu/PHIL Paper",
+    "source_path": "private/bd3657889c081cd2",
     "status": "ACTIVE",
     "tag_confidence": {
       "PRIVATE_PERSONAL": 95,
@@ -36641,8 +36897,8 @@
     "taxonomy_category": "UNSORTED",
     "taxonomy_leaf": "",
     "taxonomy_subcategory": "UNSORTED",
-    "title": "Type mathematical symbols - online keyboard",
-    "url": "https://math.typeit.org/",
+    "title": "PRIVATE_72a3568610c3",
+    "url": "https://private.invalid/c39e34f144aed414998f5978",
     "visibility_flag": "PRIVATE"
   },
   {

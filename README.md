@@ -31,6 +31,16 @@ pip install -e ".[dev,health,schema]"
 
 Phase 1 runs on the standard library plus **rapidfuzz**; no other runtime packages are required for the core pipeline.
 
+## Privacy obfuscation for PRIVATE records
+
+When PRIVATE bookmarks are present, set `BOOKMARK_ROTA_OBFUSCATION_KEY` before running the pipeline.
+The key is used to HMAC-obfuscate PRIVATE fields in exported JSON/HTML artifacts while keeping PUBLIC
+records unchanged.
+
+```powershell
+$env:BOOKMARK_ROTA_OBFUSCATION_KEY = "set-a-long-random-local-secret"
+```
+
 ## Run pipeline
 
 ```powershell

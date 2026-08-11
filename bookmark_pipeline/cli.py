@@ -10,6 +10,12 @@ from .catalog import bookmark_record_to_dict, build_catalog
 from .dedupe import dedupe_firefox_against_chrome
 from .docx_parser import parse_docx_bookmarks
 from .export_html import export_netscape
+from .output_privacy import (
+    obfuscate_private_records,
+    obfuscate_private_rotation_payload,
+    obfuscation_key_from_env,
+    require_obfuscation_key,
+)
 from .rotation import (
     bookmark_hashes_legacy,
     iso_week_key,
@@ -46,6 +52,10 @@ def run_pipeline(
 
     dedupe = dedupe_firefox_against_chrome(chrome_bookmarks, firefox_bookmarks)
     catalog, mapping_log, review_queue = build_catalog(chrome_bookmarks, dedupe.kept_firefox)
+    obfuscation_key = obfuscation_key_from_env()
+    require_obfuscation_key(catalog, obfuscation_key)
+    export_catalog = obfuscate_private_records(catalog, obfuscation_key)
+    private_ids = {rec.bookmark_id for rec in catalog if rec.visibility_flag == 'PRIVATE'}
 
     db_path = output_dir / 'bookmarks.db'
     conn = init_db(db_path)
@@ -71,15 +81,18 @@ def run_pipeline(
 
     write_json(
         output_dir / 'bookmark_catalog.json',
-        [bookmark_record_to_dict(item) for item in catalog],
+        [bookmark_record_to_dict(item) for item in export_catalog],
     )
     write_json(output_dir / 'duplicate_log.json', [asdict(item) for item in dedupe.duplicate_log])
     write_json(output_dir / 'taxonomy_mapping.json', [asdict(item) for item in mapping_log])
     write_json(output_dir / 'review_queue.json', [asdict(item) for item in review_queue])
-    write_json(output_dir / 'rotation_weekly.json', [asdict(item) for item in rotation])
+    write_json(
+        output_dir / 'rotation_weekly.json',
+        obfuscate_private_rotation_payload([asdict(item) for item in rotation], private_ids, obfuscation_key),
+    )
     write_json(output_dir / 'bookmark_hashes.json', bookmark_hashes_legacy(rotation))
 
-    html_export, export_warnings = export_netscape(catalog)
+    html_export, export_warnings = export_netscape(export_catalog)
     (output_dir / 'merged_bookmarks.html').write_text(html_export, encoding='utf-8', newline='\n')
     write_json(output_dir / 'export_warnings.json', export_warnings)
 
@@ -108,7 +121,7 @@ def _build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument(
         '--output-dir',
-        default='ig/out',
+        default='out',
         help='Output folder for generated artifacts.',
     )
     parser.add_argument(
