@@ -126,8 +126,11 @@ def _build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument(
         '--run-date',
-        default='2026-08-10',
-        help='Run date in YYYY-MM-DD format for weekly rotation keys.',
+        default=None,
+        help=(
+            'Run date in YYYY-MM-DD format for weekly rotation keys. '
+            'Defaults to today when omitted; pass the target Monday for weekly publishes.'
+        ),
     )
     parser.add_argument(
         '--dry-run',
