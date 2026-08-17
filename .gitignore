@@ -16,8 +16,7 @@ htmlcov/
 
 out/
 assets/json/bookmarks_rota.prev.json
-ig/*.docx
-ig/bookmark_steppa-phase1.txt
+ig/
 phase_1_functions.md
 
 .cursor/
