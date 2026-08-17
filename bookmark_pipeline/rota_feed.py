@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Any
 
 from .audit import write_json
+from .site_feed_blocklist import is_blocked_site_feed_url
 
 SCHEMA_PATH = Path(__file__).resolve().parent.parent / 'schemas' / 'bookmarks_rota.schema.json'
 
@@ -28,6 +29,8 @@ def build_rota_feed(
             continue
         url = str(record.get('url', ''))
         if not url.startswith(('http://', 'https://')):
+            continue
+        if is_blocked_site_feed_url(url):
             continue
         tags = record.get('tags', [])
         if not isinstance(tags, list):

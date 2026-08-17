@@ -52,9 +52,10 @@ Run a deterministic weekly process that keeps the canonical catalog healthy, pro
 1. Confirm `rotation_weekly.json` contains exactly 12 entries.
 2. Confirm no duplicate `bookmark_id` values within the cycle.
 3. Confirm each selected record is `PUBLIC` and `ACTIVE`.
-4. Spot-check recency:
+4. Confirm no 4chan hosts or known 4chan search/indexers (`4chan.org`, `4channel.org`, `4cdn.org`, `4chansearch.com`, any subdomain) appear in the site feed. Keep Archive Team wiki pages about 4chan.
+5. Spot-check recency:
    - ensure no item was shown in the last 4 ISO weeks when enough pool exists
-5. Confirm `bookmark_hashes.json` has title/hash/week/display metadata.
+6. Confirm `bookmark_hashes.json` has title/hash/week/display metadata.
 
 ### 5) dead-link and health checks
 
@@ -77,6 +78,7 @@ Only one file leaves this repo for the website: `assets/json/bookmarks_rota.json
    - exactly 12 items for a normal week (document intentional short weeks)
    - unique `bookmark_id` and `hash` values
    - every URL is absolute `http://` or `https://`
+   - no 4chan hosts or known 4chan search/indexers (`4chan.org` / `4channel.org` / `4cdn.org` / `4chansearch.com` and subdomains)
 4. Copy **only** `assets/json/bookmarks_rota.json` into the website repo path `assets/json/bookmarks_rota.json` (default: `frinjee.github.io`).
 5. Rollback if needed: restore from `assets/json/bookmarks_rota.prev.json`.
 6. Keep CI / cross-repo auto-push deferred until after ~4 local Monday handoffs.

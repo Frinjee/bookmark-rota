@@ -103,7 +103,7 @@ python -m bookmark_pipeline.rota_feed build `
   --validate
 ```
 
-5. Confirm gates: exactly 12 items (or an intentional short week), unique `bookmark_id` / `hash` values, and absolute `http(s)` URLs.
+5. Confirm gates: exactly 12 items (or an intentional short week), unique `bookmark_id` / `hash` values, absolute `http(s)` URLs, and no 4chan hosts or known 4chan search/indexers (`4chan.org`, `4channel.org`, `4cdn.org`, `4chansearch.com`, including subdomains). Archive Team wiki pages about 4chan may remain.
 
 6. Copy **only** `assets/json/bookmarks_rota.json` into the website repo at `assets/json/bookmarks_rota.json` (default target: `frinjee.github.io`). Keep CI / cross-repo auto-push deferred until after a stable month of local Monday handoffs.
 

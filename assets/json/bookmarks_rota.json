@@ -132,36 +132,6 @@
     "url": "https://wiki.archiveteam.org/index.php/4chan#The_Second_4archive.org"
   },
   {
-    "bookmark_id": "7a26fee65b5bfb44",
-    "display_date": "2026-08-10",
-    "display_week": "2026-W33",
-    "hash": "e43c254749d6",
-    "note": "",
-    "tags": [
-      "SEARCH_ENGINE",
-      "UNSORTED"
-    ],
-    "taxonomy_category": "UNSORTED",
-    "taxonomy_subcategory": "UNSORTED",
-    "title": "4Chan Search",
-    "url": "https://find.4chan.org/?q=test"
-  },
-  {
-    "bookmark_id": "bef9fcd5b5b793cf",
-    "display_date": "2026-08-10",
-    "display_week": "2026-W33",
-    "hash": "db2e626853e2",
-    "note": "",
-    "tags": [
-      "SEARCH_ENGINE",
-      "UNSORTED"
-    ],
-    "taxonomy_category": "UNSORTED",
-    "taxonomy_subcategory": "UNSORTED",
-    "title": "4chan search",
-    "url": "https://4chansearch.com/"
-  },
-  {
     "bookmark_id": "8a7df19cd7ef4ea7",
     "display_date": "2026-08-10",
     "display_week": "2026-W33",
@@ -174,5 +144,35 @@
     "taxonomy_subcategory": "UNSORTED",
     "title": "5Ghz Interference Tracker - Map Builder",
     "url": "https://orbtwz.users.earthengine.app/view/radarinterferencetracker"
+  },
+  {
+    "bookmark_id": "135975580549d9e3",
+    "display_date": "2026-08-10",
+    "display_week": "2026-W33",
+    "hash": "ad8159e7b44c",
+    "note": "",
+    "tags": [
+      "BALTIMORE",
+      "RESEARCH"
+    ],
+    "taxonomy_category": "RESEARCH",
+    "taxonomy_subcategory": "BALTIMORE",
+    "title": "5th Special Forces Group (United States) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/5th_Special_Forces_Group_(United_States)"
+  },
+  {
+    "bookmark_id": "81a8382a4d19aa57",
+    "display_date": "2026-08-10",
+    "display_week": "2026-W33",
+    "hash": "770cd6346519",
+    "note": "",
+    "tags": [
+      "DEV",
+      "WEBDEV"
+    ],
+    "taxonomy_category": "DEV",
+    "taxonomy_subcategory": "WEBDEV",
+    "title": "6.828 / Fall 2016",
+    "url": "https://pdos.csail.mit.edu/6.828/2016/index.html"
   }
 ]
